@@ -1,0 +1,1465 @@
+,CATEGORY (i.e.ISCED description),COURSE TITLE,COURSE CODE2,R1 POINTS,R1 Random *,R2 POINTS,R2 Random*,EOS,EOS Random *,EOS Mid-point,LEVEL,HEI,Test/Interview #,avp,v,Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,hei_code
+0,Business and administration,International Business,AC120,,,,,,,,8,American College,,,,,,,,,,,,AC
+1,Humanities (except languages),Liberal Arts,AC137,,,,,,,,8,American College,,,,,,,,,,,,AC
+2,Arts,"First Year Art & Design (Common Entry,portfolio)",AD101,,,,,,,,8,National College of Art and Design,#,,,,,,,,,,,AD
+3,Arts,Graphic Design and Moving Image Design (portfolio),AD102,,,,,,,,8,National College of Art and Design,#,,,,,,,,,,,AD
+4,Arts,Textile & Surface Design and Jewellery & Objects (portfolio),AD103,,,,,,,,8,National College of Art and Design,#,,,,,,,,,,,AD
+5,Education,"Education & Design or Fine Art (Second Level Teaching,portfolio))",AD202,,,,,,,,8,National College of Art and Design,#,,,,,,,,,,,AD
+6,Arts,Fine Art (portfolio),AD204,,,,,,,,8,National College of Art and Design,#,,,,,,,,,,,AD
+7,Arts,Fashion Design (portfolio),AD211,,,,,,,,8,National College of Art and Design,#,,,,,,,,,,,AD
+8,Arts,Product Design (portfolio),AD212,,,,,,,,8,National College of Art and Design,#,,,,,,,,,,,AD
+9,Arts,Visual Culture,AD215,,,,,,,,8,National College of Art and Design,,,,,,,,,,,,AD
+10,Arts,Illustration (portfolio),AD217,,,,,,,,8,National College of Art and Design,#,,,,,,,,,,,AD
+11,Information and Communication Technologies (ICTs),Interaction Design (portfolio),AD222,,,,,,,,8,National College of Art and Design,#,,,,,,,,,,,AD
+12,Information and Communication Technologies (ICTs),Software Design,AL600,,,,,,,,6,Athlone Institute of Technology,,,,,,,,,,,,AL
+13,Engineering and engineering trades,Computer Engineering,AL601,,,,,,,,6,Athlone Institute of Technology,,avp,v,,,,,,,,,AL
+14,Engineering and engineering trades,Mechanical Engineering,AL602,,,,,,,,6,Athlone Institute of Technology,,,,,,,,,,,,AL
+15,Architecture and construction,Civil Engineering,AL604,,,,,,,,6,Athlone Institute of Technology,,,,,,,,,,,,AL
+16,Engineering and engineering trades,Music and Instrument Technology,AL605,,,,,,,,6,Athlone Institute of Technology,,avp,,,,,,,,,,AL
+17,Health,Pharmacy Technician,AL630,,,,,,,,6,Athlone Institute of Technology,,,,,,,,,,,,AL
+18,Health,Dental Nursing,AL631,,,,,,,,6,Athlone Institute of Technology,,,,,,,,,,,,AL
+19,Biological and related sciences,Applied Science,AL632,,,,,,,,6,Athlone Institute of Technology,,,,,,,,,,,,AL
+20,Business and administration,Business,AL650,,,,,,,,6,Athlone Institute of Technology,,,,,,,,,,,,AL
+21,Personal services,Culinary Arts,AL660,,,,,,,,6,Athlone Institute of Technology,,avp,,,,,,,,,,AL
+22,Personal services,Bar Supervision,AL661,,,,,,,,6,Athlone Institute of Technology,,avp,v,,,,,,,,,AL
+23,Personal services,Business (Sport and Recreation),AL663,,,,,,,,6,Athlone Institute of Technology,,avp,,,,,,,,,,AL
+24,Information and Communication Technologies (ICTs),Computer Engineering with Network Infrastructure,AL701,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+25,Information and Communication Technologies (ICTs),Software Design with Artificial Intelligence for Cloud Computing,AL702,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+26,Information and Communication Technologies (ICTs),Software Design with Virtual Reality and Gaming,AL703,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+27,Information and Communication Technologies (ICTs),Computer Engineering,AL704,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+28,Information and Communication Technologies (ICTs),Software Design with Mobile Apps and Connected Devices,AL705,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+29,Engineering and engineering trades,Mechanical Engineering,AL710,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+30,Engineering and engineering trades,Mechanical Engineering and Renewable Energy,AL711,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+31,Engineering and engineering trades,Automation and Robotics,AL712,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+32,Engineering and engineering trades,Engineering (Common Entry to Mechanical/Renewable/Mechatronic Eng),AL713,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+33,Engineering and engineering trades,Music and Sound Engineering,AL718,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+34,Architecture and construction,Civil Engineering,AL721,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+35,Biological and related sciences,Biotechnology,AL730,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+36,Veterinary,Veterinary Nursing,AL731,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+37,Physical sciences,Pharmaceutical Sciences (Drug Development and Analysis),AL734,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+38,Personal services,Exercise and Health Science,AL740,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+39,Business and administration,Digital Marketing,AL751,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+40,Business and administration,Business,AL752,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+41,Personal services,Hotel and Leisure Management,AL761,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+42,Arts,Graphic Design (portfolio),AL763,,,,,,,,7,Athlone Institute of Technology,#,,,,,,,,,,,AL
+43,Welfare,Early Years Care and Education,AL764,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+44,Welfare,Applied Social Studies in Social Care,AL765,,,,,,,,7,Athlone Institute of Technology,,,,,,,,,,,,AL
+45,Information and Communication Technologies (ICTs),Software Design with Virtual Reality and Gaming,AL801,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+46,Information and Communication Technologies (ICTs),Software Design with Artificial Intelligence for Cloud Computing,AL802,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+47,Information and Communication Technologies (ICTs),Software Design with Mobile Apps and Connected Devices,AL803,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+48,Information and Communication Technologies (ICTs),Computer Engineering with Network Infrastructure,AL805,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+49,Architecture and construction,Quantity Surveying,AL810,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+50,Architecture and construction,Civil Engineering,AL811,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+51,Manufacturing and processing,Mechanical and Polymer Engineering,AL820,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+52,Health,General Nursing,AL830,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+53,Health,Psychiatric Nursing,AL832,,*,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+54,Health,Nutrition and Health Science,AL836,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+55,Personal services,Sports Science with Exercise Physiology,AL837,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+56,Biological and related sciences,Biotechnology,AL838,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+57,Biological and related sciences,Microbiology,AL839,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+58,Physical sciences,Pharmaceutical Sciences,AL840,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+59,Health,Athletic and Rehabilitation Therapy,AL841,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+60,Biological and related sciences,Bioveterinary Science,AL842,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+61,Health,Physical Activity and Health Science,AL843,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+62,Business and administration,Business,AL850,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+63,Law,Business and Law,AL851,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+64,Business and administration,Accounting,AL852,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+65,Personal services,Sport Management (with international placement),AL854,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+66,Personal services,Hospitality Management (with international placement),AL855,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+67,Business and administration,Digital Marketing,AL857,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+68,Welfare,Social Care Practice,AL860,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+69,Arts,Animation and Illustration (portfolio),AL861,,,,,,,,8,Athlone Institute of Technology,#,,,,,,,,,,,AL
+70,Arts,Graphic and Digital Design (portfolio),AL863,,,,,,,,8,Athlone Institute of Technology,#,,,,,,,,,,,AL
+71,Welfare,Early Years Care and Education,AL864,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+72,Social and behavioural sciences,Applied Psychology,AL870,,,,,,,,8,Athlone Institute of Technology,,,,,,,,,,,,AL
+73,Education,"Education, Home Economics and Biology - with concurrent Teacher Ed",AS001,,,,,,,,8,St. Angela`s College,,,,,,,,,,,,AS
+74,Education,"Education, Home Economics and Religious Ed - with concurrent Teacher Ed",AS002,,*,,*,,*,,8,St. Angela`s College,,,,,,,,,,,,AS
+75,Education,"Education, Home Economics and Irish - with concurrent Teacher Ed",AS003,,*,,,,,,8,St. Angela`s College,,,,,,,,,,,,AS
+76,Business and administration,"Nutrition, Food and Business Management",AS051,,,,,,,,8,St. Angela`s College,,,,,,,,,,,,AS
+77,Biological and related sciences,Home Economics,AS054,,,,,,,,8,St. Angela`s College,,,,,,,,,,,,AS
+78,Health,General Nursing,AS110,,*,,,,*,,8,St. Angela`s College,,,,,,,,,,,,AS
+79,Health,Intellectual Disability Nursing,AS130,,*,,,,,,8,St. Angela`s College,,,,,,,,,,,,AS
+80,Welfare,Counselling Skills and Psychotherapy Studies,CI001,,,,,,,,7,Irish College of Humanities & Applied Sciences,,,,,,,,,,,,CI
+81,Welfare,Counselling Skills and Addiction Studies,CI002,,,,,,,,7,Irish College of Humanities & Applied Sciences,,,,,,,,,,,,CI
+82,Welfare,Counselling Skills and Youth Studies,CI005,,,,,,,,7,Irish College of Humanities & Applied Sciences,,,,,,,,,,,,CI
+83,Welfare,Counselling and Psychotherapy,CI110,,,,,,,,8,Irish College of Humanities & Applied Sciences,,,,,,,,,,,,CI
+84,Welfare,Counselling and Addiction Studies,CI111,,,,,,,,8,Irish College of Humanities & Applied Sciences,,,,,,,,,,,,CI
+85,Welfare,Counselling and Youth Studies,CI112,,,,,,,,8,Irish College of Humanities & Applied Sciences,,,,,,,,,,,,CI
+86,Arts,Arts - 3 years,CK101,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+87,Social and behavioural sciences,Social Science,CK102,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+88,Arts,Arts with Music - 3 or 4 years (BMus or Chinese/European/Int`l Pathway),CK104,,,,,,,,8,University College Cork (NUI),#,,,,,,,,,,,CK
+89,Arts,Film and Screen Media - 3 years or 4 years (International Pathway),CK105,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+90,Humanities (except languages),Geographical and Archaeological Sciences - 3 or 4 years (Int`l Pathway),CK107,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+91,Languages,Arts International - 4 years,CK108,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+92,Languages,English - 3 years or 4 years (International Pathway),CK109,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+93,Languages,World Languages,CK110,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+94,Welfare,Early Years and Childhood Studies,CK111,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+95,Arts,Theatre and Performative Practices - 3 or 4 years (Int`l Pathway),CK112,,,,,,,,8,University College Cork (NUI),#,,,,,,,,,,,CK
+96,Social and behavioural sciences,Criminology - 3 years or 4 years (International Pathway),CK113,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+97,Welfare,Social Science (Youth and Community Work) - 3 years,CK114,,,,,,,,8,University College Cork (NUI),#,,,,,,,,,,,CK
+98,Welfare,Social Work - Mature Applicants only,CK115,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+99,Arts,Digital Humanities and IT - 3 or 4 years (Work Exper. or Int`l Pathway),CK118,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+100,Social and behavioural sciences,Applied Psychology,CK120,,*,,*,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+101,Social and behavioural sciences,Psychology and Computing - 3 or 4 years (Work Experience Pathway),CK121,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+102,Social and behavioural sciences,Government and Political Science,CK122,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+103,Humanities (except languages),Anthropology,CK123,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+104,Education,Education - Gaeilge,CK124,,,,,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+105,Education,Sports Studies and Physical Education,CK125,,*,,*,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+106,Business and administration,Commerce,CK201,,*,,,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+107,Business and administration,Accounting,CK202,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+108,Information and Communication Technologies (ICTs),Business Information Systems,CK203,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+109,Business and administration,Finance,CK204,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+110,Business and administration,Commerce (International) with French,CK205,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+111,Business and administration,Commerce (International) with German,CK206,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+112,Business and administration,Commerce (International) with Italian,CK207,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+113,Business and administration,Commerce (International) with Hispanic Studies,CK208,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+114,Business and administration,Commerce (International) with Irish,CK209,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+115,Business and administration,Commerce (International) with Chinese Studies,CK211,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+116,Social and behavioural sciences,Economics (through Transformational Learning) 3 or 4 years Int`l Pathway,CK212,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+117,Business and administration,Food Marketing and Entrepreneurship,CK213,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+118,Social and behavioural sciences,International Development,CK214,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+119,Law,Law (Pathways) -  3 or 4 years,CK301,,,,,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+120,Law,Law and French,CK302,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+121,Law,Law and Irish,CK304,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+122,Law,Law and Business,CK307,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+123,Information and Communication Technologies (ICTs),Computer Science,CK401,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+124,Biological and related sciences,Biological and Chemical Sciences,CK402,,*,,*,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+125,Biological and related sciences,"Biological, Earth and Environmental Sciences",CK404,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+126,Biological and related sciences,Genetics,CK405,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+127,Physical sciences,Chemical Sciences,CK406,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+128,Mathematics and statistics,Mathematical Sciences,CK407,,,,*,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+129,Physical sciences,Physics and Astrophysics,CK408,,,,,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+130,Physical sciences,Industrial Physics - Offered jointly by UCC and CIT,CK409,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+131,Information and Communication Technologies (ICTs),Data Science and Analytics,CK411,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+132,Agriculture,Agricultural Science,CK412,,*,,*,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+133,Biological and related sciences,Nutritional Sciences,CK504,,,,,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+134,Manufacturing and processing,Food Science,CK505,,,,*,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+135,Engineering and engineering trades,Engineering,CK600,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+136,Architecture and construction,Architecture - Offered jointly by UCC and CIT,CK606,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+137,Health,Medicine (Undergraduate Entry - HPAT required),CK701,,,,,,,,8,University College Cork (NUI),#,,,,,,,,,,,CK
+138,Health,Dentistry,CK702,,*,,*,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+139,Health,Pharmacy,CK703,,,,*,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+140,Health,Occupational Therapy,CK704,,,,*,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+141,Health,Speech and Language Therapy,CK705,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+142,Health,Public Health Sciences,CK706,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+143,Health,Medical and Health Sciences,CK707,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+144,Health,General Nursing,CK710,,*,,,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+145,Health,Children`s and General Nursing (Integrated),CK712,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+146,Health,Mental Health Nursing,CK720,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+147,Health,Intellectual Disability Nursing,CK730,,,,,,,,8,University College Cork (NUI),,,,,,,,,,,,CK
+148,Health,Midwifery,CK740,,,,,,*,,8,University College Cork (NUI),,,,,,,,,,,,CK
+149,Health,Medicine  - Graduate Entry (GAMSAT required),CK791,,*,,,,*,,8,University College Cork (NUI),#,,,,,,,,,,,CK
+150,Education,Education - Primary Teaching,CM001,,*,,,,*,,8,Marino Institute of Education,,,,,,,,,,,,CM
+151,Education,Education - Primary Teaching - Gaeltacht Applicants,CM002,,,,,,,,8,Marino Institute of Education,#,,,,,,,,,,,CM
+152,Education,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge – Gaeltacht,CM003,,,,,,,,8,Marino Institute of Education,#,,,,,,,,,,,CM
+153,Education,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge – Gaeltacht,CM004,,,,,,,,8,Marino Institute of Education,#,,,,,,,,,,,CM
+154,Education,Education Studies,CM010,,,,,,,,8,Marino Institute of Education,,avp,,,,,,,,,,CM
+155,Education,Early Childhood Education,CM020,,,,,,,,8,Marino Institute of Education,,,,,,,,,,,,CM
+156,Physical sciences,Applied Physics and Instrumentation,CR001,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+157,Biological and related sciences,Applied Biosciences,CR006,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+158,Physical sciences,Analytical and Pharmaceutical Chemistry,CR007,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+159,Agriculture,Agriculture (Year 1 - 2 days in Clonakilty Agri College & 3 days in CIT),CR010,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+160,Information and Communication Technologies (ICTs),Software Development,CR016,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+161,Business and administration,Business (Common Entry),CR021,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+162,Business and administration,Business Administration,CR022,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+163,Welfare,Social Care Work,CR031,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+164,Personal services,Recreation and Leisure Management,CR032,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+165,Welfare,Community Development,CR035,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+166,Personal services,Tourism Management,CR041,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+167,Personal services,Hospitality Management,CR042,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+168,Transport services,Automotive Technology and Management,CR046,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+169,Architecture and construction,Civil Engineering,CR051,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+170,Architecture and construction,Construction,CR052,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+171,Arts,Interior Architecture,CR053,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+172,Engineering and engineering trades,Environmental Engineering,CR055,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+173,Engineering and engineering trades,Electronic Engineering,CR061,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+174,Engineering and engineering trades,Electrical Engineering,CR062,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+175,Engineering and engineering trades,Mechanical Engineering,CR071,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+176,Health,Biomedical Engineering,CR075,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+177,Architecture and construction,Architectural Technology,CR090,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+178,Transport services,Nautical Science at National Maritime College of Ireland,CR094,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+179,Engineering and engineering trades,Marine Engineering at National Maritime College of Ireland,CR095,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+180,Engineering and engineering trades,Chemical and Biopharmaceutical Engineering,CR105,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+181,Information and Communication Technologies (ICTs),Software Development,CR106,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+182,Engineering and engineering trades,Mechanical Engineering,CR108,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+183,Architecture and construction,Structural Engineering,CR109,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+184,Transport services,Automotive Business Management and Technology,CR110,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+185,Arts,Creative Digital Media,CR112,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+186,Information and Communication Technologies (ICTs),Computer Systems,CR116,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+187,Arts,Music at CIT Cork School of Music,CR121,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+188,Arts,Popular Music: Electric Bass Guitar at CIT Cork School of Music,CR125,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+189,Arts,Popular Music: Drums at CIT Cork School of Music,CR126,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+190,Arts,Popular Music: Electric Guitar at CIT Cork School of Music,CR127,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+191,Arts,Popular Music: Keyboards at CIT Cork School of Music,CR128,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+192,Arts,Popular Music: Voice at CIT Cork School of Music,CR129,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+193,Arts,Musical Theatre at CIT Cork School of Music,CR130,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+194,Business and administration,Business Information Systems,CR150,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+195,Arts,"Contemporary Applied Art (Ceramics, Glass, Textiles) at CIT Crawford",CR210,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+196,Arts,Fine Art at CIT Crawford College of Art and Design,CR220,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+197,Arts,Photography with New Media,CR225,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+198,Physical sciences,Physical Sciences (Common Entry),CR300,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+199,Physical sciences,Physical Sciences (Common Entry),CR305,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+200,Information and Communication Technologies (ICTs),IT Management,CR310,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+201,Biological and related sciences,Biomedical Science - Offered jointly by CIT and UCC,CR320,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+202,Biological and related sciences,Pharmaceutical Biotechnology,CR325,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+203,Health,Nutrition and Health Science,CR333,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+204,Biological and related sciences,Biological Sciences (Common Entry),CR335,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+205,Physical sciences,Analytical Chemistry with Quality Assurance,CR340,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+206,Physical sciences,Instrument Engineering,CR360,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+207,Environment,Environmental Science and Sustainable Technology,CR365,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+208,"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",Agri-Biosciences,CR370,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+209,Business and administration,Accounting,CR400,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+210,Business and administration,Marketing,CR420,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+211,Business and administration,International Business with Language,CR425,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+212,Personal services,Sport and Exercise Management,CR430,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+213,Education,Montessori Education,CR440,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+214,Engineering and engineering trades,Engineering (Common Entry),CR500,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+215,Environment,Sustainable Energy Engineering,CR510,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+216,Health,Biomedical Engineering,CR520,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+217,Architecture and construction,Architectural Technology,CR560,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+218,Architecture and construction,Interior Architecture,CR565,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+219,Architecture and construction,Quantity Surveying,CR570,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+220,Architecture and construction,Construction Management,CR572,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+221,Engineering and engineering trades,Electrical Engineering,CR580,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+222,Engineering and engineering trades,Electronic Engineering,CR590,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+223,Arts,Visual Communications,CR600,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+224,Welfare,Early Childhood Education and Care,CR620,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+225,Personal services,Culinary Arts,CR640,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+226,Personal services,Beverage Industry Management,CR650,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+227,Personal services,Culinary Studies,CR655,,,,,,,,6,Cork Institute of Technology,,,,,,,,,,,,CR
+228,Personal services,Hospitality Studies,CR657,,,,,,,,6,Cork Institute of Technology,,,,,,,,,,,,CR
+229,Personal services,Tourism Management,CR660,,,,,,,,8,Cork Institute of Technology,,,,,,,,,,,,CR
+230,Arts,Theatre and Drama Studies at CIT Cork School of Music,CR700,,,,,,,,8,Cork Institute of Technology,#,,,,,,,,,,,CR
+231,Engineering and engineering trades,Marine Electrotechnology at National Maritime College of Ireland,CR805,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+232,Information and Communication Technologies (ICTs),Information Technology,CR888,,,,,,,,7,Cork Institute of Technology,,,,,,,,,,,,CR
+233,Information and Communication Technologies (ICTs),Computing in Information Technology,CT110,,,,,,,,6,CCT College Dublin,,,,,,,,,,,,CT
+234,Information and Communication Technologies (ICTs),Information Technology,CT116,,,,,,,,7,CCT College Dublin,,,,,,,,,,,,CT
+235,Information and Communication Technologies (ICTs),Information Technology,CT125,,,,,,,,8,CCT College Dublin,,avp,,,,,,,,,,CT
+236,Business and administration,Business,CT325,,,,,,,,8,CCT College Dublin,,avp,,,,,,,,,,CT
+237,Business and administration,Business,CW006,,,,,,,,6,"Institute of Technology, Carlow",,avp,,,,,,,,,,CW
+238,Business and administration,Business (options),CW018,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+239,Agriculture,Sustainable Farm Management and Agribusiness,CW027,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+240,Welfare,Early Childhood Education and Care,CW028,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+241,Business and administration,Business (options),CW037,,,,,,,,7,"Institute of Technology, Carlow",#,,,,,,,,,,,CW
+242,Arts,Art (portfolio),CW038,,,,,,,,8,"Institute of Technology, Carlow",#,,,,,,,,,,,CW
+243,Arts,Visual Communications and Design,CW047,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+244,Arts,Art (portfolio),CW057,,,,,,,,7,"Institute of Technology, Carlow",#,,,,,,,,,,,CW
+245,Personal services,Tourism and Event Management,CW058,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+246,Welfare,Applied Social Studies in Professional Social Care,CW068,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+247,Personal services,Tourism and Event Management,CW077,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+248,Agriculture,Sustainable Farm Management and Agribusiness,CW078,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+249,Arts,Visual Communications and Design,CW088,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+250,Health,Physiology and Health Science,CW106,,,,,,,,6,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+251,Environment,Analytical Science,CW107,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+252,Biological and related sciences,Science (options),CW108,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+253,Health,Pharmacy Technician Studies,CW116,,,,,,,,6,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+254,Environment,Biosciences,CW117,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+255,Biological and related sciences,Science - Applied Biology or Applied Chemistry,CW126,,,,,,,,6,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+256,Biological and related sciences,Brewing and Distilling,CW128,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+257,Personal services,Sport and Exercise Science,CW138,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+258,Personal services,Strength and Conditioning,CW148,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+259,Health,Sport Rehabilitation and Athletic Therapy,CW188,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+260,Information and Communication Technologies (ICTs),Computing - Applications or Programming,CW206,,,,,,,,6,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+261,Information and Communication Technologies (ICTs),Software Development,CW207,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+262,Information and Communication Technologies (ICTs),Computer Games Development,CW208,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+263,Information and Communication Technologies (ICTs),Information Technology Management,CW217,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+264,Information and Communication Technologies (ICTs),Cybercrime and IT Security,CW227,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+265,Information and Communication Technologies (ICTs),Computing in Interactive Digital Art and Design,CW237,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+266,Information and Communication Technologies (ICTs),Software Development,CW238,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+267,Information and Communication Technologies (ICTs),Information Technology Management,CW248,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+268,Information and Communication Technologies (ICTs),Cybercrime and IT Security,CW258,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+269,Information and Communication Technologies (ICTs),Computing in Interactive Digital Art and Design,CW268,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+270,Architecture and construction,Architectural Technology,CW407,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+271,Architecture and construction,Construction Management with Building Services,CW417,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+272,Architecture and construction,Civil Engineering,CW427,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+273,Architecture and construction,Construction (options),CW438,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+274,Architecture and construction,Architectural Technology,CW468,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+275,Architecture and construction,Civil Engineering,CW478,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+276,Engineering and engineering trades,Aircraft Systems,CW507,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+277,Engineering and engineering trades,Mechanical Engineering,CW517,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+278,Engineering and engineering trades,Electronic Engineering,CW527,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+279,Arts,TV and Media Production,CW547,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+280,Engineering and engineering trades,Mechanical Engineering,CW548,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+281,Engineering and engineering trades,Electronic Systems,CW558,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+282,Engineering and engineering trades,Aerospace Engineering,CW568,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+283,Arts,TV and Media Production,CW578,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+284,Law,Legal Studies,CW706,,,,,,,,6,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+285,Arts,Industrial Design,CW707,,,,,,,,7,"Institute of Technology, Carlow",#,,,,,,,,,,,CW
+286,Law,Law - LLB,CW708,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+287,Welfare,Professional Social Care Practice,CW717,,,,,,,,7,"Institute of Technology, Carlow",#,,,,,,,,,,,CW
+288,Arts,Product Design Innovation,CW728,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+289,Welfare,Early Childhood Education and Care,CW748,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+290,Welfare,Professional Social Care Practice,CW758,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+291,Personal services,Sport Coaching and Business Management - GAA (portfolio),CW807,,,,,,,,7,"Institute of Technology, Carlow",#,,,,,,,,,,,CW
+292,Business and administration,Media and Public Relations,CW808,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+293,Personal services,Sport Coaching and Business Management - Rugby (portfolio),CW817,,,,,,,,7,"Institute of Technology, Carlow",#,,,,,,,,,,,CW
+294,Personal services,Sport Coaching and Business Management - Soccer (portfolio),CW827,,,,,,,,7,"Institute of Technology, Carlow",#,,,,,,,,,,,CW
+295,Information and Communication Technologies (ICTs),Digital Marketing with Analytics,CW837,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+296,Information and Communication Technologies (ICTs),Digital Marketing with Analytics,CW848,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+297,Personal services,"Sports Management and Coaching (options, portfolio)",CW858,,,,,,,,8,"Institute of Technology, Carlow",#,,,,,,,,,,,CW
+298,Business and administration,Business,CW906,,,,,,,,6,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+299,Business and administration,Business (options),CW908,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+300,Business and administration,Business (options),CW917,,,,,,,,7,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+301,Business and administration,Business with Law,CW926,,,,,,,,6,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+302,Business and administration,Accounting,CW936,,,,,,,,6,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+303,Business and administration,Business with Law,CW938,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+304,Business and administration,Accounting,CW948,,,,,,,,8,"Institute of Technology, Carlow",,,,,,,,,,,,CW
+305,Information and Communication Technologies (ICTs),Computing,DB500,,,218.0,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+306,Information and Communication Technologies (ICTs),Computing (Cloud Computing),DB501,,,227.0,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+307,Information and Communication Technologies (ICTs),Computing (Data Analytics and Big Data),DB502,,,341.0,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+308,Information and Communication Technologies (ICTs),Computing (Software Development),DB503,,,225.0,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+309,Information and Communication Technologies (ICTs),Computing (Web and Mobile Technology),DB504,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+310,Arts,Audio Production and Music Project Management,DB510,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+311,Business and administration,Business Studies,DB512,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+312,Business and administration,Business Studies (Law),DB514,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+313,Business and administration,Business Studies (Human Resource Management),DB515,,,244.0,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+314,Business and administration,Financial Services,DB516,,,,,,,,8,Dublin Business School,,,,,,,,,,,,DB
+315,Business and administration,Marketing (Event Management),DB517,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+316,Business and administration,Accounting and Finance,DB521,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+317,Information and Communication Technologies (ICTs),Business (Information Systems),DB524,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+318,Information and Communication Technologies (ICTs),Business (Cloud Computing),DB526,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+319,Social and behavioural sciences,Applied Social Care,DB527,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+320,Social and behavioural sciences,Applied Social Care,DB528,,,,,,,,7,Dublin Business School,,avp,,,,,,,,,,DB
+321,Business and administration,Marketing,DB531,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+322,Arts,Sound Engineering and Music Production,DB534,,,,,,,,6,Dublin Business School,,avp,,,,,,,,,,DB
+323,Social and behavioural sciences,Psychology,DB562,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+324,Arts,Arts,DB563,,,,,,,,6,Dublin Business School,,avp,,,,,,,,,,DB
+325,Social and behavioural sciences,Social Science,DB566,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+326,Arts,Film and Creative Media,DB567,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+327,Law,Law,DB568,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+328,Business and administration,Business (Psychology),DB569,,,,,,,,8,Dublin Business School,,avp,,,,,,,,,,DB
+329,Business and administration,Business Studies,DB571,,,,,,,,7,Dublin Business School,,avp,,,,,,,,,,DB
+330,Business and administration,Business in Accounting,DB572,,,,,,,,7,Dublin Business School,,avp,,,,,,,,,,DB
+331,Business and administration,Business in Marketing,DB573,,,,,,,,7,Dublin Business School,,avp,,,,,,,,,,DB
+332,Information and Communication Technologies (ICTs),Business in Information Technology,DB574,,,,,,,,7,Dublin Business School,,avp,,,,,,,,,,DB
+333,Arts,Film and Creative Media,DB576,,,,,,,,7,Dublin Business School,,avp,,,,,,,,,,DB
+334,Education,Education - Early Childhood Education,DC001,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+335,Education,Education - Primary Teaching,DC002,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+336,Education,Education - Primary Teaching - Gaeltacht Applicants,DC003,,,,,,,,8,Dublin City University,#,,,,,,,,,,,DC
+337,Education,Education - Primary Teaching (Church of Ireland Centre formerly CICE),DC004,,,,,,,,8,Dublin City University,#,,,,,,,,,,,DC
+338,Arts,Arts (Joint Honours) - Humanities,DC009,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+339,Education,Post Primary Teacher Education - Religious Education and English,DC010,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+340,Education,Post Primary Teacher Education - Religious Education and History,DC011,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+341,Education,Post Primary Teacher Education - Religious Education and Music,DC012,,,,,,,,8,Dublin City University,#,,,,,,,,,,,DC
+342,Education,Post Primary Teacher Ed - Gaeilge with French/German/Spanish,DC013,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+343,Arts,BA in Jazz and Contemporary Music Performance (audition),DC014,,,,,,,,8,Dublin City University,#,,,,,,,,,,,DC
+344,Languages,Business Studies International,DC110,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+345,Business and administration,Business Studies,DC111,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+346,Business and administration,Global Business (France),DC112,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+347,Business and administration,Global Business (Germany),DC113,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+348,Business and administration,Global Business (Spain),DC114,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+349,Business and administration,Accounting and Finance,DC115,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+350,Business and administration,Global Business (USA),DC116,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+351,Engineering and engineering trades,Aviation Management / Aviation Management with Pilot Studies,DC117,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+352,Business and administration,Gnó agus Gaeilge / Business and Irish,DC118,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+353,Business and administration,Global Business (Canada),DC119,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+354,Information and Communication Technologies (ICTs),Enterprise Computing,DC120,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+355,Information and Communication Technologies (ICTs),Computer Applications,DC121,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+356,Information and Communication Technologies (ICTs),Data Science,DC123,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+357,Mathematics and statistics,Actuarial Mathematics,DC126,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+358,Mathematics and statistics,Common Entry into Actuarial and Financial Mathematics,DC127,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+359,Humanities (except languages),Communication Studies,DC131,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+360,Journalism and information,Journalism,DC132,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+361,Arts,Multimedia,DC133,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+362,Languages,Applied Language and Translation Studies,DC155,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+363,Physical sciences,Analytical Science,DC161,,*,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+364,Physical sciences,Chemical and Pharmaceutical Sciences,DC162,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+365,Environment,Environmental Science and Technology,DC166,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+366,Biological and related sciences,Genetics and Cell Biology,DC168,,*,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+367,Physical sciences,Physics General Entry (options),DC175,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+368,Biological and related sciences,Biotechnology,DC181,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+369,Engineering and engineering trades,Electronic and Computer Engineering (with choice of four majors),DC190,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+370,Engineering and engineering trades,Mechatronic Engineering,DC193,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+371,Engineering and engineering trades,Mechanical and Manufacturing Engineering,DC195,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+372,Health,Biomedical Engineering,DC197,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+373,Engineering and engineering trades,Common Entry into Engineering (Undenominated Entry),DC200,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+374,Biological and related sciences,Common Entry into Science (Undenominated Entry),DC201,,*,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+375,Health,Sport Science and Health,DC202,,,,*,,*,,8,Dublin City University,,,,,,,,,,,,DC
+376,Education,Science Education,DC203,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+377,Health,Athletic Therapy and Training,DC204,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+378,Education,Physical Education with Biology,DC205,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+379,Education,Physical Education with Mathematics,DC206,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+380,Social and behavioural sciences,Psychology,DC208,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+381,Health,Health and Society,DC209,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+382,Health,General Nursing,DC215,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+383,Health,Mental Health Nursing,DC216,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+384,Health,Intellectual Disability Nursing,DC217,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+385,Health,Children`s and General Nursing (Integrated),DC218,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+386,Social and behavioural sciences,"Economics, Politics and Law",DC230,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+387,Social and behavioural sciences,International Relations,DC231,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+388,Law,Law and Society (BCL),DC232,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+389,Education,Education and Training - Daytime and Flexible Delivery Mode (full-time),DC235,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+390,Humanities (except languages),Social Sciences and Cultural Innovation,DC238,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+391,Journalism and information,"Gaeilge, Iriseoireacht agus na Meáin Dhigiteacha",DC239,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+392,Business and administration,"Marketing, Innovation and Technology",DC240,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+393,Arts,Arts (Joint Honours) - Media Studies,DC291,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+394,Arts,Arts (Joint Honours) - Law,DC292,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+395,Arts,Arts (Joint Honours) - International Languages,DC293,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+396,Arts,Arts (Joint Honours) - Politics,DC295,,,,,,,,8,Dublin City University,,,,,,,,,,,,DC
+397,Business and administration,Business and Management,DK710,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+398,Business and administration,Business and Technology,DK711,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+399,Business and administration,Digital Marketing and Public Relations,DK712,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+400,Information and Communication Technologies (ICTs),Computing,DK721,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+401,Information and Communication Technologies (ICTs),Augmented and Virtual Reality,DK722,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+402,Architecture and construction,Building Surveying,DK730,,,,,,,,7,Dundalk Institute of Technology,,,,,,,,,,,,DK
+403,Architecture and construction,Architectural Technology,DK731,,,,,,,,7,Dundalk Institute of Technology,,,,,,,,,,,,DK
+404,Architecture and construction,Construction Management,DK732,,,,,,,,7,Dundalk Institute of Technology,,,,,,,,,,,,DK
+405,Engineering and engineering trades,Engineering - Electrical and Electronic Systems,DK740,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+406,Engineering and engineering trades,Engineering - Mechanical Engineering,DK742,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+407,Architecture and construction,Engineering - Civil Engineering,DK744,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+408,Personal services,Hospitality Management,DK750,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+409,Personal services,Event Management,DK752,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+410,Personal services,Culinary Arts,DK753,,,,,,,,7,Dundalk Institute of Technology,,avp,v,,,,,,,,,DK
+411,Personal services,"Sport, Exercise and Enterprise",DK763,,,,,,,,7,Dundalk Institute of Technology,,,,,,,,,,,,DK
+412,Welfare,Community Youth Work (interview),DK767,,,,,,,,7,Dundalk Institute of Technology,#,avp,,,,,,,,,,DK
+413,Arts,Audio and Music Production,DK768,,,,,,,,7,Dundalk Institute of Technology,,,,,,,,,,,,DK
+414,Arts,Creative Media,DK769,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+415,Arts,Theatre & Film Practice,DK770,,,,,,,,7,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+416,Arts,Musical Theatre (audition),DK771,,,,,,,,7,Dundalk Institute of Technology,#,,,,,,,,,,,DK
+417,Biological and related sciences,Science - Bioscience,DK781,,,,,,,,7,Dundalk Institute of Technology,,,,,,,,,,,,DK
+418,Biological and related sciences,Science - Pharmaceutical Science,DK783,,,,,,,,7,Dundalk Institute of Technology,,,,,,,,,,,,DK
+419,Veterinary,Veterinary Nursing,DK784,,,,,,,,7,Dundalk Institute of Technology,,,,,,,,,,,,DK
+420,Business and administration,Accounting and Finance,DK810,,,,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+421,Business and administration,Business Studies,DK816,,,,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+422,Information and Communication Technologies (ICTs),Computing in Games Development,DK820,,,,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+423,Information and Communication Technologies (ICTs),Computing in Software Development,DK821,,,302.0,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+424,Information and Communication Technologies (ICTs),Augmented and Virtual Reality,DK822,,,,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+425,Architecture and construction,Building Surveying,DK830,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+426,Architecture and construction,Architectural Technology,DK831,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+427,Architecture and construction,Construction Management,DK832,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+428,Engineering and engineering trades,Engineering (Common Entry),DK843,,,340.0,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+429,Engineering and engineering trades,Mechanical Engineering,DK844,,,305.0,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+430,Engineering and engineering trades,Electrical & Electronic Engineering,DK845,,,304.0,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+431,Architecture and construction,Civil Engineering,DK846,,,,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+432,Personal services,International Tourism Management,DK850,,,,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+433,Arts,Music (audition),DK860,,,,,,,,8,Dundalk Institute of Technology,#,avp,,,,,,,,,,DK
+434,Social and behavioural sciences,Arts,DK861,,,,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+435,Welfare,Social Care,DK862,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+436,Arts,Creative Media,DK863,,,,,,,,8,Dundalk Institute of Technology,,avp,,,,,,,,,,DK
+437,Arts,Film and Television Production,DK864,,,,,,,,8,Dundalk Institute of Technology,,avp,v,,,,,,,,,DK
+438,Arts,Audio and Music Production,DK865,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+439,Health,General Nursing,DK870,,,,,,*,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+440,Health,Intellectual Disability Nursing,DK872,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+441,Health,Mental Health Nursing,DK874,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+442,Welfare,Early Childhood Studies,DK876,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+443,Health,Midwifery,DK877,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+444,Health,Health and Physical Activity,DK880,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+445,"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",Agriculture (Award options),DK882,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+446,"Interdisciplinary programmes and qualifications involving natural sciences, Mathematics and statistics",Science (Award options),DK883,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+447,Agriculture,Sustainable Agriculture,DK884,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+448,Manufacturing and processing,Agri-Food Production,DK885,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+449,Manufacturing and processing,Biopharmaceutical Science,DK886,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+450,Environment,Environmental Science,DK887,,,,,,,,8,Dundalk Institute of Technology,,,,,,,,,,,,DK
+451,Business and administration,Business - Applied Entrepreneurship,DL701,,,,,,,,7,"Dun Laoghaire Institute of Art, Design and Technology",,avp,,,,,,,,,,DL
+452,Humanities (except languages),"English, Media and Cultural Studies",DL821,,,212.0,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",,avp,,,,,,,,,,DL
+453,Business and administration,Arts Management,DL822,,,229.0,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",,avp,v,,,,,,,,,DL
+454,Business and administration,Business Management,DL823,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",,,,,,,,,,,,DL
+455,Social and behavioural sciences,Applied Psychology,DL825,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",,,,,,,,,,,,DL
+456,Arts,Visual Communication Design,DL826,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",#,,,,,,,,,,,DL
+457,Arts,Art,DL827,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",#,,,,,,,,,,,DL
+458,Arts,"3D Design, Modelmaking and Digital Art",DL828,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",#,,,,,,,,,,,DL
+459,Arts,Design for Stage and Screen (Costume Design),DL829,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",#,,,,,,,,,,,DL
+460,Arts,Design for Stage and Screen (Character Makeup Design),DL830,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",#,,,,,,,,,,,DL
+461,Arts,Design for Stage and Screen (Production Design),DL831,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",#,,,,,,,,,,,DL
+462,Arts,Animation,DL832,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",#,,,,,,,,,,,DL
+463,Arts,Photography,DL833,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",#,,,,,,,,,,,DL
+464,Arts,Film and Television Production,DL834,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",#,,,,,,,,,,,DL
+465,Information and Communication Technologies (ICTs),Creative Computing,DL836,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",,,,,,,,,,,,DL
+466,Humanities (except languages),New Media Studies,DL837,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",,,,,,,,,,,,DL
+467,Arts,Creative Music Production,DL838,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",#,,,,,,,,,,,DL
+468,Information and Communication Technologies (ICTs),Interaction and User Experience Design,DL839,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",#,avp,,,,,,,,,,DL
+469,Business and administration,Digital Marketing,DL840,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",,avp,,,,,,,,,,DL
+470,Arts,English and Equality Studies,DL841,,,,,,,,8,"Dun Laoghaire Institute of Art, Design and Technology",,avp,,,,,,,,,,DL
+471,Architecture and construction,Architecture,DN100,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+472,Architecture and construction,Landscape Architecture,DN120,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+473,Architecture and construction,City Planning and Environmental Policy,DN130,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+474,Engineering and engineering trades,Engineering (Common Entry),DN150,,,,,,*,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+475,"Interdisciplinary programmes and qualifications involving natural sciences, Mathematics and statistics",Science (options),DN200,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+476,Information and Communication Technologies (ICTs),Computer Science (Common Entry),DN201,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+477,Mathematics and statistics,Actuarial and Financial Studies,DN230,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+478,Environment,Sustainability,DN240,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+479,"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",Agricultural Science (options),DN250,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+480,Agriculture,Dairy Business,DN252,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+481,Environment,Agri - Environmental Sciences,DN253,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+482,Agriculture,Food Science,DN261,,,,,,*,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+483,Health,Human Nutrition,DN262,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+484,"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",Forestry,DN271,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+485,Agriculture,"Horticulture, Landscape and Sportsturf Management",DN272,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+486,Veterinary,Veterinary Medicine - Undergraduate Entry,DN300,,,,,,,,8,University College Dublin (NUI),#,,,,,,,,,,,DN
+487,Veterinary,Veterinary Medicine - Graduate Entry (GAMSAT required),DN301,,,,,,,,8,University College Dublin (NUI),#,,,,,,,,,,,DN
+488,Veterinary,Veterinary Nursing,DN310,,,,,,*,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+489,Health,Medicine - Undergraduate Entry (HPAT required),DN400,,,,*,,*,,8,University College Dublin (NUI),#,,,,,,,,,,,DN
+490,Health,Medicine - Graduate Entry (GAMSAT required),DN401,,,,,,*,,8,University College Dublin (NUI),#,,,,,,,,,,,DN
+491,Health,Radiography,DN410,,,,*,,*,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+492,Health,Radiography - Graduate Entry,DN411,,,,,,,,8,University College Dublin (NUI),#,,,,,,,,,,,DN
+493,Health,Physiotherapy,DN420,,,,*,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+494,Health,Health and Performance Science,DN425,,,,*,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+495,Business and administration,Sport and Exercise Management,DN430,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+496,Biological and related sciences,"Biomedical, Health and Life Sciences",DN440,,,,*,,*,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+497,Health,General Nursing,DN450,,*,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+498,Health,Children`s and General Nursing (Integrated),DN451,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+499,Health,Midwifery,DN452,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+500,Health,Mental Health Nursing,DN453,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+501,Arts,Joint Honours (options),DN520,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+502,Humanities (except languages),Humanities (options),DN530,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+503,Languages,Modern Languages (options),DN541,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+504,Law,Law (options),DN600,,,,,,*,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+505,Business and administration,Business and Law,DN610,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+506,Business and administration,Commerce,DN650,,*,,*,,*,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+507,Business and administration,Commerce International (options),DN660,,,,,,*,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+508,Business and administration,Economics and Finance,DN670,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+509,Social and behavioural sciences,Social Sciences (options),DN700,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+510,Social and behavioural sciences,Economics,DN710,,*,,*,,*,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+511,Social and behavioural sciences,Psychology,DN720,,,,*,,*,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+512,Social and behavioural sciences,Social Policy and Sociology,DN750,,,,,,,,8,University College Dublin (NUI),,,,,,,,,,,,DN
+513,Information and Communication Technologies (ICTs),Computing and Multimedia (Level 6 - Higher Certificate),DS602,,,,,,,,6,Dorset College,,,,,,,,,,,,DS
+514,Information and Communication Technologies (ICTs),Computing and Multimedia (Level 6 - Certificate),DS603,,,,,,,,6,Dorset College,,,,,,,,,,,,DS
+515,Business and administration,Business,DS701,,,,,,,,7,Dorset College,,,,,,,,,,,,DS
+516,Information and Communication Technologies (ICTs),Computing and Multimedia (Level 7),DS702,,,,,,,,7,Dorset College,,,,,,,,,,,,DS
+517,Business and administration,Business,GA160,,,,,,,,6,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+518,Business and administration,Business,GA170,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+519,Information and Communication Technologies (ICTs),Business Information Systems,GA171,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+520,Agriculture,Rural Enterprise and Agri-Business,GA172,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+521,Business and administration,Marketing and Sales,GA174,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+522,Business and administration,Finance,GA175,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+523,Business and administration,Business with Entrepreneurship,GA176,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+524,Business and administration,Accounting,GA181,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+525,Business and administration,Business,GA182,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+526,Information and Communication Technologies (ICTs),Business Information Systems,GA183,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+527,Business and administration,Marketing and Sales,GA184,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+528,Business and administration,Finance and Economics,GA185,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+529,Business and administration,Business with Entrepreneurship,GA186,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+530,Agriculture,Rural Enterprise and Agri-Business,GA187,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+531,Social and behavioural sciences,Heritage Studies,GA272,,,,,,,,7,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+532,Arts,Contemporary Art,GA273,,,,,,,,7,Galway-Mayo Institute of Technology,#,,,,,,,,,,,GA
+533,Arts,Design,GA274,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+534,Arts,Film and Documentary,GA281,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+535,Social and behavioural sciences,Heritage Studies,GA282,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+536,Arts,Contemporary Art,GA283,,,,,,,,8,Galway-Mayo Institute of Technology,#,,,,,,,,,,,GA
+537,Arts,Design,GA284,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+538,Education,"Education (Art, Design and Graphics)",GA285,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+539,Personal services,Business in Tourism,GA360,,,,,,,,6,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+540,Personal services,Culinary Arts,GA361,,,,,,,,6,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+541,Personal services,Hotel and Hospitality Operations,GA362,,,,,,,,6,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+542,Social and behavioural sciences,Heritage Studies,GA364,,,,,,,,6,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+543,Personal services,Hotel and Catering Management,GA370,,,,,,,,7,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+544,Personal services,Event Management with Public Relations,GA376,,,,,,,,7,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+545,Personal services,International Tourism Management,GA377,,,,,,,,7,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+546,Manufacturing and processing,Culinary and Gastronomic Science,GA378,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+547,Personal services,International Hotel Management,GA380,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+548,Personal services,International Tourism Management,GA381,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+549,Manufacturing and processing,Culinary and Gastronomic Science,GA382,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+550,Personal services,Event Management with Public Relations,GA384,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+551,Architecture and construction,Construction Management,GA470,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+552,Architecture and construction,Quantity Surveying and Construction Economics,GA471,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+553,Architecture and construction,Architectural Technology,GA472,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+554,Architecture and construction,Civil Engineering,GA473,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+555,Architecture and construction,Construction Management,GA480,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+556,Architecture and construction,Quantity Surveying and Construction Economics,GA482,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+557,Architecture and construction,Architectural Technology,GA483,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+558,Architecture and construction,Civil Engineering,GA484,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+559,Engineering and engineering trades,Software and Electronic Engineering,GA570,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+560,Engineering and engineering trades,Software and Electronic Engineering,GA580,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+561,Engineering and engineering trades,Mechanical Engineering,GA670,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+562,Engineering and engineering trades,Energy Engineering,GA673,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+563,Engineering and engineering trades,Biomedical Engineering,GA674,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+564,Engineering and engineering trades,Agricultural Engineering,GA675,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+565,Engineering and engineering trades,Engineering (Common Entry to Manu/Agri/Biomed/Energy/Mech Eng),GA676,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+566,Manufacturing and processing,Manufacturing Engineering Design,GA677,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+567,Engineering and engineering trades,Mechanical Engineering,GA680,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+568,Engineering and engineering trades,Energy Engineering,GA681,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+569,Engineering and engineering trades,Biomedical Engineering,GA682,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+570,Engineering and engineering trades,Agricultural Engineering,GA683,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+571,Engineering and engineering trades,Engineering (Common entry to Agri/Biomed/Energy/Mech Eng),GA684,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+572,Manufacturing and processing,Manufacturing Engineering Design,GA685,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+573,Biological and related sciences,Applied Freshwater and Marine Biology,GA770,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+574,Biological and related sciences,Applied Biology and Biopharmaceutical Science,GA771,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+575,Environment,Chemical and Pharmaceutical Science,GA772,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+576,Physical sciences,Physics and Instrumentation,GA773,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+577,Biological and related sciences,Science (Undenominated),GA774,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+578,Information and Communication Technologies (ICTs),Computing in Software Development,GA775,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+579,Information and Communication Technologies (ICTs),Computing and Digital Media,GA776,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+580,Agriculture,Agriculture and Environmental Management,GA777,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+581,Biological and related sciences,Applied Freshwater and Marine Biology,GA780,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+582,Biological and related sciences,Applied Biology and Biopharmaceutical Science,GA781,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+583,Environment,Chemical and Pharmaceutical Science,GA782,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+584,Physical sciences,Physics and Instrumentation,GA783,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+585,Biological and related sciences,Science (Undenominated),GA784,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+586,Health,Medical Science,GA785,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+587,Physical sciences,Forensic Science and Analysis,GA786,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+588,Information and Communication Technologies (ICTs),Computing in Software Development,GA787,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+589,Information and Communication Technologies (ICTs),Computing and Digital Media,GA788,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+590,Agriculture,Agriculture and Environmental Management,GA789,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+591,Personal services,Sport and Exercise Science,GA790,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+592,Biological and related sciences,Public Health Nutrition,GA791,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+593,Humanities (except languages),History & Geography,GA862,,,,,,,,6,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+594,Education,Early Childhood Education and Care,GA864,,,,,,,,6,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+595,Personal services,Outdoor Education and Leisure,GA870,,,,,,,,7,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+596,Education,Early Childhood Education and Care,GA871,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+597,Social and behavioural sciences,Culture and Environment,GA872,,,,,,,,7,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+598,Welfare,Applied Social Care,GA879,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+599,Health,General Nursing,GA880,,*,,*,,*,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+600,Health,Psychiatric Nursing,GA882,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+601,Personal services,Outdoor Education,GA885,,,,,,,,8,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+602,Humanities (except languages),History and Geography,GA887,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+603,Welfare,Applied Social Care,GA889,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+604,Education,Early Childhood Education and Care,GA890,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+605,Environment,Geography and Outdoor Education,GA891,,,,,,,,8,Galway-Mayo Institute of Technology,,avp,,,,,,,,,,GA
+606,Arts,"Furniture Design, Making and Technology - Common Entry",GA974,,,,,,,,7,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+607,Education,Education (Design Graphics and Construction),GA980,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+608,Arts,"Furniture Design, Making and Technology - Common Entry",GA984,,,,,,,,8,Galway-Mayo Institute of Technology,,,,,,,,,,,,GA
+609,Business and administration,Business,GB001,,,,,,,,7,Galway Business School,,avp,,,,,,,,,,GB
+610,Business and administration,Business Studies,GC200,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+611,Business and administration,Accounting and Finance,GC201,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+612,Information and Communication Technologies (ICTs),Computing Science,GC230,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+613,Journalism and information,Communications and Media Production,GC250,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+614,Business and administration,Business Studies,GC300,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+615,Business and administration,Accounting & Finance,GC301,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+616,Business and administration,Business Studies - HRM,GC302,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+617,Personal services,International Hospitality Management,GC305,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+618,Personal services,International Hospitality Management,GC306,,,,,,,,7,Griffith College,,avp,,,,,,,,,,GC
+619,Information and Communication Technologies (ICTs),Computing,GC335,,,,,,,,7,Griffith College,,avp,,,,,,,,,,GC
+620,Business and administration,Business Studies,GC400,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+621,Business and administration,Accounting and Finance,GC401,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+622,Business and administration,Business Studies (HRM),GC402,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+623,Law,Law,GC403,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+624,Business and administration,Business Studies (Marketing),GC407,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+625,Business and administration,Marketing,GC410,,,,,,,,7,Griffith College,,avp,,,,,,,,,,GC
+626,Business and administration,Business,GC411,,,,,,,,7,Griffith College,,avp,,,,,,,,,,GC
+627,Information and Communication Technologies (ICTs),Computing Science,GC430,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+628,Information and Communication Technologies (ICTs),Computing,GC435,,,,,,,,7,Griffith College,,avp,,,,,,,,,,GC
+629,Journalism and information,Communications and Media Production,GC450,,,,,,,,8,Griffith College,,avp,,,,,,,,,,GC
+630,Arts,Music Production for Games (portfolio),GC460,,,,,,,,6,Griffith College,#,avp,,,,,,,,,,GC
+631,Arts,Design Communication (portfolio),GC462,,,,,,,,8,Griffith College,#,,,,,,,,,,,GC
+632,Journalism and information,Communications,GC465,,,,,,,,7,Griffith College,,avp,,,,,,,,,,GC
+633,Arts,Film and TV Production,GC466,,,,,,,,7,Griffith College,,avp,,,,,,,,,,GC
+634,Arts,Photographic Media,GC470,,,,,,,,7,Griffith College,,avp,,,,,,,,,,GC
+635,Arts,Photography,GC475,,,,,,,,6,Griffith College,,avp,,,,,,,,,,GC
+636,Arts,Interior Architecture (portfolio),GC489,,,,,,,,8,Griffith College,#,avp,,,,,,,,,,GC
+637,Arts,Interior Design,GC490,,,,,,,,7,Griffith College,,avp,,,,,,,,,,GC
+638,Arts,Fashion Design (portfolio),GC494,,,,,,,,8,Griffith College,#,avp,,,,,,,,,,GC
+639,Arts,Fashion,GC495,,,,,,,,7,Griffith College,,avp,,,,,,,,,,GC
+640,Arts,Arts (Joint-Honours),GY101,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+641,Social and behavioural sciences,Arts (Psychology),GY104,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+642,Humanities (except languages),Arts (History),GY105,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+643,Languages,Na Dána (Gaeilge agus Léann an Aistriúcháin),GY107,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+644,Education,Arts (Mathematics and Education),GY109,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+645,Social and behavioural sciences,Arts with Children`s Studies,GY110,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+646,Arts,Arts with Creative Writing,GY111,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+647,Arts,Arts with Film Studies,GY112,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+648,Social and behavioural sciences,Arts with Human Rights,GY113,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+649,Arts,Arts with Performing Arts Studies,GY115,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+650,Arts,"Arts (Drama, Theatre and Performance Studies)",GY118,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+651,Journalism and information,Arts (Journalism),GY119,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+652,Social and behavioural sciences,"Arts (Child, Youth and Family: Policy and Practice)",GY120,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+653,Social and behavioural sciences,Arts (Children`s Studies),GY121,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+654,Arts,Na Dána (Cumarsáid agus Gaeilge),GY122,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+655,Social and behavioural sciences,Applied Social Sciences,GY123,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+656,Information and Communication Technologies (ICTs),Arts (Arts with Data Science),GY124,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+657,Arts,Arts (Digital Arts and Technology),GY125,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+658,Languages,Arts (English and Media Studies),GY126,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+659,Arts,Arts (Film and Digital Media),GY127,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+660,Languages,Arts (Global Languages),GY128,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+661,Arts,Arts (International),GY129,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+662,Arts,Arts (Music),GY130,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+663,Humanities (except languages),Arts (History and Globalisation Studies),GY131,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+664,Social and behavioural sciences,"Government (Politics, Economics and Law)",GY132,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+665,Education,Education (Computer Science and Mathematical Studies),GY133,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+666,Physical sciences,Geography and Geosystems,GY134,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+667,Business and administration,Commerce,GY201,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+668,Business and administration,Commerce (International) with French,GY202,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+669,Business and administration,Commerce (International) with German,GY203,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+670,Business and administration,Commerce (International) with Spanish,GY204,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+671,Business and administration,Business Information Systems (Work Placement & Optional Int`l Study),GY206,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+672,Business and administration,Commerce (Accounting) including optional Global Experience year,GY207,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+673,Business and administration,Commerce (Gaeilge),GY208,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+674,Business and administration,Commerce (Global Experience),GY209,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+675,Law,Law and Business,GY250,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+676,Law,Law (BCL),GY251,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+677,Law,Law (BCL) and Human Rights,GY252,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+678,Law,Law and Taxation,GY253,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+679,Law,"Law (BCL), Criminology and Criminal Justice",GY254,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+680,Business and administration,"Business Studies (International Hotel Management, interview)",GY261,,,,,,,,8,"National University of Ireland, Galway",#,,,,,,,,,,,GY
+681,Business and administration,"Commerce (International Hotel Management, interview)",GY262,,,,,,,,8,"National University of Ireland, Galway",#,,,,,,,,,,,GY
+682,Biological and related sciences,Science,GY301,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+683,Biological and related sciences,Biomedical Science,GY303,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+684,Engineering and engineering trades,Biotechnology,GY304,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+685,Environment,Environmental Science,GY308,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+686,Mathematics and statistics,Financial Mathematics and Economics,GY309,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+687,Physical sciences,Marine Science,GY310,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+688,Hygiene and occupational health services,Environmental Health and Safety,GY313,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+689,Physical sciences,Earth and Ocean Sciences,GY314,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+690,Biological and related sciences,Biopharmaceutical Chemistry,GY318,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+691,Mathematics and statistics,Mathematical Science,GY319,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+692,Physical sciences,"Physics (Degree options: Applied,Astrophysics,Biomedical,Theoretical)",GY320,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+693,Biological and related sciences,Genetics and Genomics,GY321,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+694,Information and Communication Technologies (ICTs),Computer Science and Information Technology,GY350,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+695,Engineering and engineering trades,Engineering (Undenominated),GY401,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+696,Architecture and construction,Civil Engineering,GY402,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+697,Engineering and engineering trades,Mechanical Engineering,GY405,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+698,Engineering and engineering trades,Electronic and Computer Engineering,GY406,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+699,Engineering and engineering trades,Biomedical Engineering,GY408,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+700,Architecture and construction,Project and Construction Management,GY410,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+701,Engineering and engineering trades,Energy Systems Engineering,GY413,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+702,Engineering and engineering trades,Electrical and Electronic Engineering,GY414,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+703,Health,"Medicine (five year/six year course, HPAT required)",GY501,,*,,,,,,8,"National University of Ireland, Galway",#,,,,,,,,,,,GY
+704,Health,Occupational Therapy,GY502,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+705,Health,Speech and Language Therapy,GY503,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+706,Health,Podiatric Medicine,GY504,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+707,Health,General Nursing (Galway and Portiuncula),GY515,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+708,Health,Mental Health Nursing,GY516,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+709,Health,Midwifery,GY517,,,,,,,,8,"National University of Ireland, Galway",,,,,,,,,,,,GY
+710,Business and administration,Accounting and Finance,ID001,,,,,,,,8,ICD Business School,,avp,,,,,,,,,,ID
+711,Business and administration,Business Studies,ID002,,,,,,,,8,ICD Business School,,avp,,,,,,,,,,ID
+712,Arts,"Art and Design (Common Entry, portfolio)",LC110,,,,,,,,8,Limerick Institute of Technology,#,,,,,,,,,,,LC
+713,Arts,Fashion and Textiles for Product and Costume (portfolio),LC114,,,,,,,,8,Limerick Institute of Technology,#,,,,,,,,,,,LC
+714,Education,Art and Design Teacher Education (portfolio),LC115,,,,,,,,8,Limerick Institute of Technology,#,,,,,,,,,,,LC
+715,Business and administration,Digital Marketing,LC220,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+716,Business and administration,Accounting and Finance,LC221,,,,,,,,6,Limerick Institute of Technology,,,,,,,,,,,,LC
+717,Business and administration,Marketing and Management,LC222,,,,,,,,6,Limerick Institute of Technology,,,,,,,,,,,,LC
+718,Law,Law and Taxation,LC223,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+719,Business and administration,Accounting and Finance,LC224,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+720,Business and administration,Marketing and Management,LC225,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+721,Business and administration,Enterprise and Innovation,LC226,,,,,,,,8,Limerick Institute of Technology,,avp,,,,,,,,,,LC
+722,Personal services,Sports Development and Coaching,LC228,,,,,,,,6,Limerick Institute of Technology,,,,,,,,,,,,LC
+723,Information and Communication Technologies (ICTs),Business with Computing,LC230,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+724,Information and Communication Technologies (ICTs),Software Development,LC233,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+725,Information and Communication Technologies (ICTs),Interactive Digital Media,LC234,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+726,Information and Communication Technologies (ICTs),Internet Systems Development,LC235,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+727,Information and Communication Technologies (ICTs),Internet Systems Development,LC236,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+728,Information and Communication Technologies (ICTs),Computer Networks and Systems Management,LC239,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+729,Architecture and construction,Construction Management,LC241,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+730,Architecture and construction,Property Valuation and Management,LC242,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+731,Architecture and construction,Quantity Surveying,LC243,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+732,Architecture and construction,Built Environment (Common Entry),LC248,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+733,Architecture and construction,Civil Engineering,LC251,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+734,Architecture and construction,Civil Engineering Management,LC252,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+735,Arts,Interior Design,LC257,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+736,Biological and related sciences,Applied Biology,LC260,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+737,Health,Clinical Technology,LC263,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+738,Physical sciences,Forensic and Pharmaceutical Sciences,LC265,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+739,Environment,Drug and Medicinal Product Analysis,LC266,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+740,Physical sciences,Forensic and Pharmaceutical Sciences,LC267,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+741,Health,Medical Technology,LC268,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+742,Arts,Music Technology and Production,LC270,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+743,Engineering and engineering trades,Electrical Engineering,LC271,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+744,Engineering and engineering trades,Electrical Engineering,LC275,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+745,Arts,Creative Broadcast and Film Production,LC276,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+746,Engineering and engineering trades,Industrial Automation and Robotic Systems,LC277,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+747,Engineering and engineering trades,Renewable and Electrical Energy Engineering,LC278,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+748,Engineering and engineering trades,Electronic Engineering,LC279,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+749,Engineering and engineering trades,Automobile Technology,LC281,,,,,,,,6,Limerick Institute of Technology,,,,,,,,,,,,LC
+750,Engineering and engineering trades,Precision Engineering,LC283,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+751,Engineering and engineering trades,"Agricultural Mechanisation at Salesian Agricultural College,Pallaskenry",LC284,,,,,,,,6,Limerick Institute of Technology,,,,,,,,,,,,LC
+752,Engineering and engineering trades,Mechanical Engineering,LC285,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+753,Engineering and engineering trades,Road Transport Technology and Management,LC286,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+754,Engineering and engineering trades,Mechanical Engineering,LC288,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+755,Engineering and engineering trades,Precision Engineering,LC289,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+756,Personal services,Community Sport Development,LC290,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+757,Welfare,Social Care Work,LC292,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+758,Personal services,Business Studies with Travel and Tourism Management,LC293,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+759,Personal services,Business Studies with Event Management,LC294,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+760,Business and administration,Business Studies with Sports Management,LC295,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+761,Social and behavioural sciences,Community Development,LC297,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+762,Business and administration,Business,LC320,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+763,Information and Communication Technologies (ICTs),Business with Computing,LC330,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+764,Information and Communication Technologies (ICTs),Computing,LC336,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+765,Arts,Interior Design,LC340,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+766,Biological and related sciences,Biotechnology and Biopharmaceutical Sciences,LC362,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+767,Arts,Creative Broadcast and Film Production,LC371,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+768,Arts,Music Technology and Production,LC372,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+769,Engineering and engineering trades,Renewable and Electrical Energy Engineering,LC374,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+770,Engineering and engineering trades,Industrial Automation and Robotic Systems,LC375,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+771,Engineering and engineering trades,Electronic Engineering,LC376,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+772,Transport services,Automotive Engineering and Transport Management,LC380,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+773,Personal services,Business Studies in Beauty and Spa Management,LC392,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+774,Welfare,Early Childhood Education and Care,LC393,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+775,Personal services,Culinary Arts,LC398,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+776,Personal services,Hospitality Supervision,LC399,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+777,Welfare,Early Childhood Education and Care,LC401,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+778,Welfare,Social Care Work,LC402,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+779,Environment,Environmental Science and Climate,LC408,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+780,Information and Communication Technologies (ICTs),Data Analytics and Cyber Security,LC414,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+781,Business and administration,Business,LC415,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+782,Business and administration,Business,LC416,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+783,Information and Communication Technologies (ICTs),Computing - Games Design and Development,LC418,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+784,Personal services,Sports Strength and Conditioning,LC422,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+785,Personal services,Sports Strength and Conditioning,LC423,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+786,Environment,Environmental Science,LC425,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+787,"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",Environmental Science and Agriculture,LC428,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+788,Welfare,Early Childhood Education and Care,LC432,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+789,"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",Environmental Science and Agriculture,LC434,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+790,Information and Communication Technologies (ICTs),Game Art and Design (portfolio),LC502,,,,,,,,8,Limerick Institute of Technology,#,,,,,,,,,,,LC
+791,Information and Communication Technologies (ICTs),Creative Media and Design,LC504,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+792,Information and Communication Technologies (ICTs),Creative Media and Design,LC517,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+793,Information and Communication Technologies (ICTs),Digital Animation Production (portfolio),LC518,,,,,,,,8,Limerick Institute of Technology,#,,,,,,,,,,,LC
+794,Welfare,Social Care Work,LC602,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+795,Welfare,Early Childhood Education and Care,LC603,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+796,Business and administration,Business,LC605,,,,,,,,7,Limerick Institute of Technology,,,,,,,,,,,,LC
+797,Welfare,Social Care Work,LC612,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+798,Welfare,Early Childhood Education and Care,LC613,,,,,,,,8,Limerick Institute of Technology,,,,,,,,,,,,LC
+799,Humanities (except languages),Arts,LM002,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+800,Law,Law and Accounting,LM020,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+801,Arts,Performing Arts (audition required),LM026,,,,,,,,8,University of Limerick,#,,,,,,,,,,,LM
+802,Law,Criminal Justice,LM028,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+803,Law,Law Plus,LM029,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+804,Social and behavioural sciences,Psychology and Sociology,LM038,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+805,Journalism and information,Journalism and Digital Communication,LM039,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+806,Humanities (except languages),European Studies,LM040,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+807,Languages,Applied Languages,LM044,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+808,Business and administration,Business Studies (options),LM050,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+809,Business and administration,International Business,LM056,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+810,Mathematics and statistics,Financial Mathematics,LM058,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+811,Information and Communication Technologies (ICTs),Technology Management,LM063,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+812,Manufacturing and processing,Food Science and Health,LM068,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+813,Manufacturing and processing,Product Design and Technology (portfolio required),LM076,,,,,,,,8,University of Limerick,#,,,,,,,,,,,LM
+814,Engineering and engineering trades,Aeronautical Engineering,LM077,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+815,Manufacturing and processing,Construction Management and Engineering,LM082,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+816,Personal services,Sport and Exercise Sciences,LM089,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+817,Education,Physical Education with concurrent Teacher Education,LM090,,*,,,,*,,8,University of Limerick,,,,,,,,,,,,LM
+818,Education,Languages with concurrent Teacher Education,LM091,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+819,Education,Science with Teacher Ed (Biology with Physics/Chemistry/Ag Science),LM092,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+820,Biological and related sciences,Equine Science,LM093,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+821,Education,Materials and Architectural Technology with concurrent Teacher Education,LM094,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+822,Education,Materials and Engineering Technology with concurrent Teacher Education,LM095,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+823,Education,Science with Teacher Ed (Physical Sciences with Chemistry and Physics),LM096,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+824,Mathematics and statistics,Mathematics and Computer Science with concurrent Teacher Education,LM097,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+825,Architecture and construction,Architecture (portfolio requirement suspended),LM099,,,,,,,,8,University of Limerick,#,,,,,,,,,,,LM
+826,Health,Physiotherapy,LM100,,*,,,,*,,8,University of Limerick,,,,,,,,,,,,LM
+827,Health,Medicine  - Graduate Entry (GAMSAT required),LM101,,*,,,,*,,8,University of Limerick,#,,,,,,,,,,,LM
+828,Social and behavioural sciences,Psychology,LM102,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+829,Health,Paramedic Studies (B/C1/C1 Provisional Drivers Licence),LM103,,,,,,,,8,University of Limerick,#,,,,,,,,,,,LM
+830,Physical sciences,Chemical and Biochemical Engineering,LM115,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+831,Engineering and engineering trades,Engineering (Biomedical/Civil/Design and Manufacture/Mechanical),LM116,,*,,,,*,,8,University of Limerick,,,,,,,,,,,,LM
+832,Engineering and engineering trades,Electronic and Computer Engineering,LM118,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+833,Information and Communication Technologies (ICTs),Computer Science (Computer Systems/Games Dev/Mobile Comm Security),LM121,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+834,Information and Communication Technologies (ICTs),Creative Media and Interaction Design (Digital Design/Music Media Tech),LM122,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+835,Biological and related sciences,Biological & Chemical Sciences (Biosci/Envir Sci/Ind Bio/IndPharma Chem),LM123,,*,,,,*,,8,University of Limerick,,,,,,,,,,,,LM
+836,Mathematics and statistics,Mathematics (Math Science/Maths and Physics/Economics and Maths),LM124,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+837,Physical sciences,Physics (Applied Physics or Mathematics & Physics),LM125,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+838,Health,General Nursing,LM150,,*,,,,*,,8,University of Limerick,,,,,,,,,,,,LM
+839,Health,Mental Health Nursing,LM152,,*,,,,*,,8,University of Limerick,,,,,,,,,,,,LM
+840,Health,Intellectual Disability Nursing,LM154,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+841,Health,Midwifery,LM156,,,,,,,,8,University of Limerick,,,,,,,,,,,,LM
+842,Biological and related sciences,Equine Science,LM180,,,,,,,,6,University of Limerick,,,,,,,,,,,,LM
+843,Business and administration,Business - Common Entry,LY107,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+844,Business and administration,Business - Accounting,LY108,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+845,Business and administration,Business,LY118,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+846,Personal services,Sports Studies,LY206,,,,,,,,6,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+847,Law,Law with Criminal Justice,LY207,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+848,Law,Law,LY208,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+849,Personal services,Sports and Exercise - Common Entry,LY228,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+850,Personal services,Culinary Arts,LY317,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+851,Personal services,Hospitality And Tourism - Common Entry,LY327,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+852,Arts,Design - Common Entry,LY408,,,,,,,,8,Letterkenny Institute of Technology,#,,,,,,,,,,,LY
+853,Arts,Digital Film and Video,LY427,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+854,Arts,Animation,LY437,,,,,,,,7,Letterkenny Institute of Technology,#,avp,,,,,,,,,,LY
+855,Arts,Fashion with Promotion,LY447,,,,,,,,7,Letterkenny Institute of Technology,#,avp,,,,,,,,,,LY
+856,Arts,Graphic and Digital Design,LY457,,,,,,,,7,Letterkenny Institute of Technology,#,avp,v,,,,,,,,,LY
+857,Architecture and construction,Quantity Surveying,LY507,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+858,Architecture and construction,Fire Safety Engineering,LY508,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+859,Architecture and construction,Quantity Surveying,LY518,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+860,Architecture and construction,Civil Engineering,LY527,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+861,Architecture and construction,Construction Management,LY528,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+862,Engineering and engineering trades,Electronic Engineering,LY607,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+863,Engineering and engineering trades,Mechanical Engineering,LY608,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+864,Engineering and engineering trades,Mechanical Engineering,LY617,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+865,Engineering and engineering trades,Electronic Engineering,LY618,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+866,Information and Communication Technologies (ICTs),Computer Games Development,LY707,,,,,,,,7,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+867,Information and Communication Technologies (ICTs),Applied Computing,LY708,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+868,Information and Communication Technologies (ICTs),Computing,LY717,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+869,Information and Communication Technologies (ICTs),Computer Security and Digital Forensics,LY737,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+870,Information and Communication Technologies (ICTs),Computer Science,LY748,,,,,,,,8,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+871,Health,Pharmacy Technician,LY806,,,,,,,,6,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+872,Health,Dental Nursing,LY816,,,,,,,,6,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+873,Biological and related sciences,Bioscience,LY817,,,,,,,,7,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+874,Biological and related sciences,Science - Common Entry,LY818,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+875,Health,Health Science with Physiotherapy Studies,LY826,,,,,,,,6,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+876,Agriculture,Agriculture - Common Entry,LY828,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+877,Health,Health Science with Occupational Therapy Studies,LY836,,,,,,,,6,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+878,Biological and related sciences,Food Science and Nutrition,LY837,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+879,Health,Health Science with Dietetics Studies,LY846,,,,,,,,6,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+880,Veterinary,Veterinary Nursing,LY847,,*,,,,,,7,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+881,Biological and related sciences,Pharmaceutical & Medicinal Science,LY867,,,,,,,,7,Letterkenny Institute of Technology,,avp,,,,,,,,,,LY
+882,Agriculture,Agriculture,LY877,,,,,,,,7,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+883,Welfare,"Early Childhood Care, Health and Education",LY906,,,,,,,,6,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+884,Health,General Nursing,LY908,,*,,,,*,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+885,Health,Health and Social Care,LY916,,,,,,,,6,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+886,Health,Psychiatric Nursing,LY918,,*,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+887,Health,Intellectual Disability Nursing,LY928,,*,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+888,Welfare,"Early Childhood Care, Health and Education",LY968,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+889,Health,Health & Social Care - Common Entry,LY978,,,,,,,,8,Letterkenny Institute of Technology,,,,,,,,,,,,LY
+890,Education,Education - Primary Teaching (Froebel),MH001,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+891,Education,Education - Primary Teaching - Gaeltacht Applicants (Froebel),MH002,,,,,,,,8,Maynooth University,#,,,,,,,,,,,MH
+892,Humanities (except languages),Arts,MH101,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+893,Arts,Music,MH103,,,,,,,,8,Maynooth University,#,,,,,,,,,,,MH
+894,Social and behavioural sciences,Psychology - 3 years,MH106,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+895,Social and behavioural sciences,Social Science,MH107,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+896,Arts,Media Studies,MH109,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+897,Welfare,Community and Youth Work (Full-Time),MH116,,,,,,,,8,Maynooth University,#,,,,,,,,,,,MH
+898,"Interdisciplinary programmes and qualifications involving natural sciences, Mathematics and statistics",Science,MH201,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+899,Biological and related sciences,Biotechnology,MH202,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+900,Biological and related sciences,Biological and Geographical Sciences,MH203,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+901,Physical sciences,Physics with Astrophysics,MH204,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+902,Mathematics and statistics,Theoretical Physics and Mathematics,MH206,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+903,Information and Communication Technologies (ICTs),Data Science,MH207,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+904,Biological and related sciences,Biological and Biomedical Sciences,MH208,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+905,Social and behavioural sciences,Psychology (through Science) - 4 years,MH209,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+906,Physical sciences,Pharmaceutical and Biomedical Chemistry,MH210,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+907,"Interdisciplinary programmes and qualifications involving natural sciences, Mathematics and statistics",Science or Maths & Computer Science or Maths & Applied Maths (with Ed),MH212,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+908,Engineering and engineering trades,Engineering (Computer/Electronic/Communications),MH304,,,,,,,,8,Maynooth University,,avp,,,,,,,,,,MH
+909,Engineering and engineering trades,Product Design,MH305,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+910,Engineering and engineering trades,Robotics and Intelligent Devices,MH306,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+911,Business and administration,Finance (options),MH401,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+912,Business and administration,Quantitative Finance,MH402,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+913,Business and administration,Accounting and Finance,MH403,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+914,Business and administration,Business (options),MH404,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+915,Business and administration,Equine Business,MH405,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+916,Business and administration,Business and Accounting,MH407,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+917,Business and administration,Entrepreneurship,MH411,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+918,Law,LLB Law - four year Single Major Law programme,MH501,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+919,Law,Law (options),MH502,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+920,Information and Communication Technologies (ICTs),Computer Science through Arts (options),MH601,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+921,Information and Communication Technologies (ICTs),Computer Science through Science (options),MH602,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+922,Information and Communication Technologies (ICTs),Computational Thinking,MH603,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+923,Education,Early Childhood - Teaching and Learning (part-time),MH801,,,,,,,,8,Maynooth University,,,,,,,,,,,,MH
+924,Welfare,"Community and Youth Work (part-time, in service)",MH802,,,,,,,,8,Maynooth University,#,avp,,,,,,,,,,MH
+925,Social and behavioural sciences,"Local Studies/Community Studies (part-time, evening) - Mature Students",MH803,,,,,,,,8,Maynooth University,#,avp,,,,,,,,,,MH
+926,Arts,Contemporary & Applied Theatre Studies,MI001,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+927,Arts,Arts,MI002,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+928,Education,Education - Primary Teaching - International,MI004,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+929,Education,Education - Primary Teaching,MI005,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+930,Education,Education - Primary Teaching - Gaeltacht Applicants,MI006,,,,,,,,8,Mary Immaculate College,#,,,,,,,,,,,MI
+931,Education,Early Childhood Care and Education,MI007,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+932,Education,Education and Psychology - Primary Teaching,MI008,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+933,Education,"Education, Business Studies and Accounting",MI009,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+934,Education,"Education, Business Studies and Religious Studies",MI010,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+935,Education,"Education, Gaeilge and Religious Studies",MI011,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+936,Education,"Education, Gaeilge and Business Studies",MI012,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+937,Education,"Education, Mathematics and Gaeilge",MI013,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+938,Education,"Education, Mathematics and Business Studies",MI014,,,,,,,,8,Mary Immaculate College,,,,,,,,,,,,MI
+939,Interdisciplinary programmes and qualifications involving arts and humanities,Theology and Arts,MU001,,,,,,,,8,"Pontifical University, St Patrick's College",,avp,,,,,,,,,,MU
+940,Interdisciplinary programmes and qualifications involving arts and humanities,Theology,MU002,,,,,,,,8,"Pontifical University, St Patrick's College",,avp,,,,,,,,,,MU
+941,Information and Communication Technologies (ICTs),Computing (Degree Award options),NC003,,,,,,,,8,National College of Ireland (NCI),,,,,,,,,,,,NC
+942,Business and administration,Human Resource Management,NC005,,,,,,,,8,National College of Ireland (NCI),,,,,,,,,,,,NC
+943,Business and administration,Business,NC009,,,,,,,,8,National College of Ireland (NCI),,,,,,,,,,,,NC
+944,Social and behavioural sciences,Psychology,NC010,,,,,,,,8,National College of Ireland (NCI),,,,,,,,,,,,NC
+945,Business and administration,Marketing Practice,NC020,,,,,,,,8,National College of Ireland (NCI),,,,,,,,,,,,NC
+946,Business and administration,Accounting and Finance,NC022,,,,,,,,8,National College of Ireland (NCI),,,,,,,,,,,,NC
+947,Information and Communication Technologies (ICTs),Technology Management (with specialisations),NC023,,,,,,,,8,National College of Ireland (NCI),,,,,,,,,,,,NC
+948,Information and Communication Technologies (ICTs),Computing,NC102,,,,,,,,6,National College of Ireland (NCI),,,,,,,,,,,,NC
+949,Business and administration,Business,NC103,,,,,,,,6,National College of Ireland (NCI),,,,,,,,,,,,NC
+950,Information and Communication Technologies (ICTs),Business Computing,NC104,,,,,,,,6,National College of Ireland (NCI),,,,,,,,,,,,NC
+951,Education,Montessori Education,NM701,,,,,,,,7,St Nicholas Montessori College Ireland,,,,,,,,,,,,NM
+952,Education,Montessori Education,NM801,,,,,,,,8,St Nicholas Montessori College Ireland,,,,,,,,,,,,NM
+953,Humanities (except languages),Arts and Humanities,PC402,,,,,,,,7,"Carlow College, St. Patrick`s",,avp,,,,,,,,,,PC
+954,Welfare,Applied Social Studies - Professional Social Care,PC404,,,,,,,,7,"Carlow College, St. Patrick`s",,,,,,,,,,,,PC
+955,Social and behavioural sciences,"Social, Political and Community Studies",PC405,,,,,,,,8,"Carlow College, St. Patrick`s",,avp,,,,,,,,,,PC
+956,Humanities (except languages),Arts and Humanities (fulfils Teaching Council requirements),PC410,,,,,,,,8,"Carlow College, St. Patrick`s",,avp,,,,,,,,,,PC
+957,Humanities (except languages),English and History (fulfils Teaching Council requirements),PC411,,,,,,,,8,"Carlow College, St. Patrick`s",,avp,,,,,,,,,,PC
+958,Health,Medicine - Undergraduate Entry (HPAT required),RC001,,,,,,,,8,RCSI University of Medicine & Health Sciences,#,,,,,,,,,,,RC
+959,Health,Physiotherapy,RC004,,,,,,,,8,RCSI University of Medicine & Health Sciences,,,,,,,,,,,,RC
+960,Health,Pharmacy,RC005,,,,,,*,,8,RCSI University of Medicine & Health Sciences,,,,,,,,,,,,RC
+961,Health,Medicine - Graduate Entry (GAMSAT required),RC101,,,,,,,,8,RCSI University of Medicine & Health Sciences,#,,,,,,,,,,,RC
+962,Business and administration,Business,SG101,,,,,,,,6,"Institute of Technology, Sligo",,avp,,,,,,,,,,SG
+963,Information and Communication Technologies (ICTs),Computing (Level 6 - General Entry),SG102,,,,,,,,6,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+964,Information and Communication Technologies (ICTs),Computing - Games Development,SG131,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+965,Personal services,Applied Sport with Business,SG134,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+966,Personal services,Business in Tourism with Event Management,SG135,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+967,Information and Communication Technologies (ICTs),Computing - Software Development,SG136,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+968,Information and Communication Technologies (ICTs),Computing (Computer Networks and Cloud Infrastructure),SG137,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+969,Information and Communication Technologies (ICTs),Computing (Level 7 - General Entry),SG138,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+970,Business and administration,Business,SG141,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+971,Business and administration,Business in International Marketing and Languages (French),SG142,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+972,Business and administration,Business in International Marketing and Languages (Spanish),SG144,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+973,Business and administration,Accounting,SG146,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+974,Personal services,Sport with Business,SG147,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+975,Personal services,Tourism with Event Management,SG148,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+976,Arts,Fine Art,SG231,,,,,,,,7,"Institute of Technology, Sligo",#,avp,,,,,,,,,,SG
+977,Arts,Creative Design,SG232,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+978,Arts,Performing Arts (Theatre Design),SG235,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+979,Arts,Performing Arts (Acting),SG236,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+980,Arts,Performing Arts,SG241,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+981,Welfare,Early Childhood Care and Education,SG242,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+982,Welfare,Social Care Practice,SG243,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+983,Arts,Fine Art,SG244,,,,,,,,8,"Institute of Technology, Sligo",#,,,,,,,,,,,SG
+984,Arts,Creative Design,SG245,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+985,Information and Communication Technologies (ICTs),Computing,SG246,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+986,Social and behavioural sciences,English and Psychology,SG247,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+987,Social and behavioural sciences,Sociology and Politics,SG248,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+988,Languages,Writing and Literature,SG249,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+989,Information and Communication Technologies (ICTs),Application Design and User Experience,SG250,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+990,Information and Communication Technologies (ICTs),Computing (Smart Technologies),SG251,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+991,Information and Communication Technologies (ICTs),Software Development,SG252,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+992,Information and Communication Technologies (ICTs),Computer Networks and Cloud Infrastructure,SG253,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+993,Languages,Writing and Literature Online,SG254,,,,,,,,8,"Institute of Technology, Sligo",,avp,,,,,,,,,,SG
+994,Engineering and engineering trades,Engineering (General Entry),SG300,,,,,,,,6,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+995,Architecture and construction,Construction Economics,SG302,,,,,,,,6,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+996,Architecture and construction,Applied Construction Technology,SG308,,,,,,,,6,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+997,Engineering and engineering trades,Engineering (General Entry),SG330,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+998,Architecture and construction,Interior Architecture and Design,SG331,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+999,Architecture and construction,Advanced Wood and Sustainable Building Technology,SG332,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1000,Engineering and engineering trades,Mechanical Engineering,SG333,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1001,Engineering and engineering trades,Mechatronic Engineering,SG334,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1002,Engineering and engineering trades,Precision Engineering and Design,SG336,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1003,Architecture and construction,Civil Engineering,SG338,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1004,Architecture and construction,Quantity Surveying,SG339,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1005,Architecture and construction,Civil Engineering,SG342,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1006,Architecture and construction,Quantity Surveying,SG343,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1007,Architecture and construction,Construction Project Management and Applied Technology,SG346,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1008,Architecture and construction,Architecture,SG347,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1009,Architecture and construction,Interior Architecture and Design,SG348,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1010,Biological and related sciences,Science,SG401,,,,,,,,6,"Institute of Technology, Sligo",,avp,,,,,,,,,,SG
+1011,Environment,Environmental Science with Ecology (Level 6),SG404,,,,,,,,6,"Institute of Technology, Sligo",,avp,v,,,,,,,,,SG
+1012,Health,Health and Exercise Science,SG406,,,,,,,,6,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1013,Physical sciences,Pharmaceutical Science with Drug Development,SG431,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1014,Hygiene and occupational health services,Occupational Safety and Health,SG433,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1015,Health,Human Nutrition,SG434,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1016,Health,Health Science and Physiology,SG435,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1017,Health,Biomedical Science,SG436,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1018,Biological and related sciences,Forensic Investigation and Analysis,SG437,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1019,Environment,Environmental Science with Ecology (Level 7),SG439,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1020,Hygiene and occupational health services,Occupational Safety and Health,SG442,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1021,Health,Human Nutrition,SG443,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1022,Biological and related sciences,Science Undenominated,SG444,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1023,Physical sciences,Pharmaceutical Science with Drug Development,SG445,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1024,Health,Health Science and Physical Activity,SG447,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1025,Biological and related sciences,Forensic Investigation and Analysis,SG448,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1026,Health,Medical Biotechnology,SG449,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1027,Environment,Environmental Science with Ecology (Level 8),SG450,,,,,,,,8,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1028,Health,Health and Medical Information Science (Online),SG530,,,,,,,,7,"Institute of Technology, Sligo",,avp,,,,,,,,,,SG
+1029,Business and administration,Business Administration,SG535,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1030,Business and administration,Business,SG536,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1031,Business and administration,Marketing and Sales,SG537,,,,,,,,7,"Institute of Technology, Sligo",,,,,,,,,,,,SG
+1032,Personal services,Culinary Arts,TL620,,,,,,,,6,"Institute of Technology, Tralee",,avp,,,,,,,,,,TL
+1033,Environment,Science (Biological and Environmental Studies),TL651,,,,,,,,6,"Institute of Technology, Tralee",,avp,v,,,,,,,,,TL
+1034,Health,Pharmacy Technician,TL652,,,,,,,,6,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1035,Arts,"Animation, Visual Effects and Motion Design (Level 7)",TL701,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1036,Arts,"TV, Radio and New Media (Level 7)",TL702,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1037,Information and Communication Technologies (ICTs),Computing with Software Development,TL710,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1038,Information and Communication Technologies (ICTs),Computing with Games Development,TL711,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1039,Information and Communication Technologies (ICTs),Computing (Degree Award options),TL715,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1040,Information and Communication Technologies (ICTs),Computer Systems and Networking,TL716,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1041,Business and administration,Business (Major Specialism in: Acctng or Mktg or Mgmnt),TL731,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1042,Agriculture,Agricultural Mechanisation,TL743,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1043,Agriculture,Agricultural Engineering,TL744,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1044,Architecture and construction,Civil and Environmental Engineering,TL745,,,,,,,,7,"Institute of Technology, Tralee",,avp,,,,,,,,,,TL
+1045,Engineering and engineering trades,Engineering in Mechanical and Manufacturing Engineering,TL747,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1046,Biological and related sciences,Agricultural Science,TL748,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1047,Health,Pharmaceutical Science (Degree Award options),TL755,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1048,Veterinary,Animal Bioscience,TL758,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1049,Personal services,Health and Leisure (Degree Award Options),TL771,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1050,Personal services,Health and Leisure with Massage,TL772,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1051,Personal services,Coaching and Sports Performance,TL773,,,,,,,,7,"Institute of Technology, Tralee",,avp,,,,,,,,,,TL
+1052,Welfare,Early Childhood Care and Education,TL780,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1053,Welfare,Social Care,TL781,,,,,,,,7,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1054,Arts,"Animation, Visual Effects and Motion Design (Level 8)",TL801,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1055,Arts,"TV, Radio and New Media (Level 8)",TL802,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1056,Information and Communication Technologies (ICTs),Computing with Software Development,TL810,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1057,Information and Communication Technologies (ICTs),Computing with Games Development,TL811,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1058,Information and Communication Technologies (ICTs),Computing (Degree Award options),TL815,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1059,Personal services,Event Management (3 year programme),TL823,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1060,Business and administration,Business Studies (Major Specialism in: Acctng or Mktg or Mgmnt),TL831,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1061,"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",Agricultural Engineering,TL844,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1062,Architecture and construction,Civil Engineering,TL845,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1063,Manufacturing and processing,Manufacturing Engineering,TL847,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1064,"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",Agricultural Science,TL848,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1065,Environment,Wildlife Biology (Degree Award options),TL851,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1066,Health,Pharmaceutical Science (Degree Award options),TL855,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1067,Veterinary,Veterinary Bioscience,TL858,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1068,Personal services,Health and Leisure (Degree Award options),TL871,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1069,Personal services,Health and Leisure with Massage,TL872,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1070,Personal services,Coaching and Sports Performance,TL873,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1071,Welfare,Early Childhood Care and Education,TL880,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1072,Welfare,Social Care,TL881,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1073,Welfare,Counselling with Addiction - Mature applicants only,TL889,,,,,,,,8,"Institute of Technology, Tralee",#,,,,,,,,,,,TL
+1074,Health,General Nursing and Mature Applicants,TL890,,*,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1075,Health,Mental Health Nursing and Mature Applicants,TL891,,,,,,,,8,"Institute of Technology, Tralee",,,,,,,,,,,,TL
+1076,Arts,Music,TR002,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1077,Humanities (except languages),History,TR003,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1078,Law,Law,TR004,,,,*,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1079,Humanities (except languages),Philosophy,TR005,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1080,Social and behavioural sciences,Psychology,TR006,,,,*,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1081,Health,Clinical Speech and Language Studies,TR007,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1082,Education,Music Education,TR009,,,,,,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1083,Humanities (except languages),History and Political Science,TR012,,,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1084,Social and behavioural sciences,"Philosophy, Political Science, Economics and Sociology",TR015,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1085,Languages,Deaf Studies,TR016,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1086,Law,Law and Business,TR017,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1087,Law,Law and French,TR018,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1088,Law,Law and German,TR019,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1089,Law,Law and Political Science,TR020,,,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1090,Humanities (except languages),"Classics, Ancient History and Archaeology",TR021,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1091,Languages,Early and Modern Irish,TR022,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1092,Languages,English Studies,TR023,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1093,Humanities (except languages),European Studies,TR024,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1094,Arts,Drama and Theatre Studies,TR025,,,,,,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1095,Humanities (except languages),Ancient and Medieval History and Culture,TR028,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1096,Social and behavioural sciences,Political Science and Geography,TR029,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1097,Mathematics and statistics,Mathematics,TR031,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1098,Engineering and engineering trades,Engineering,TR032,,,,*,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1099,Information and Communication Technologies (ICTs),Computer Science,TR033,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1100,Business and administration,Management Science and Information Systems Studies,TR034,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1101,Physical sciences,Theoretical Physics,TR035,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1102,Engineering and engineering trades,Engineering with Management,TR038,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1103,Information and Communication Technologies (ICTs),Computer Science and Language,TR039,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1104,Languages,Middle Eastern and European Languages and Cultures,TR040,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1105,Humanities (except languages),Religion,TR041,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1106,Arts,Film,TR042,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1107,Humanities (except languages),History of Art and Architecture,TR043,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1108,Health,Medicine (HPAT required),TR051,,*,,*,,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1109,Health,Dental Science,TR052,,*,,*,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1110,Health,Physiotherapy,TR053,,*,,*,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1111,Health,Occupational Therapy,TR054,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1112,Health,Radiation Therapy,TR055,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1113,Health,Human Health and Disease,TR056,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1114,Biological and related sciences,Biological and Biomedical Sciences,TR060,,*,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1115,Physical sciences,Chemical Sciences,TR061,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1116,Physical sciences,Geography and Geoscience,TR062,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1117,Physical sciences,Physical Sciences,TR063,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1118,Health,Pharmacy,TR072,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1119,Business and administration,Global Business,TR080,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1120,Social and behavioural sciences,"Business, Economic and Social Studies (BESS)",TR081,,*,,*,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1121,Business and administration,Computer Science and Business,TR082,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1122,Social and behavioural sciences,Sociology and Social Policy,TR083,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1123,Welfare,Social Studies (Social Work),TR084,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1124,Business and administration,Business Studies and French,TR085,,,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1125,Business and administration,Business Studies and German,TR086,,,,*,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1126,Business and administration,Business Studies and Russian,TR087,,,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1127,Business and administration,Business Studies and Polish,TR089,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1128,Business and administration,Business Studies and Spanish,TR090,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1129,Health,General Nursing (Meath and St James`s),TR091,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1130,Health,General Nursing (Adelaide School of Nursing),TR093,,,,,,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1131,Health,Mental Health Nursing,TR095,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1132,Health,Intellectual Disability Nursing,TR097,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1133,Arts,Ancient History and Archaeology/Geography,TR111,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1134,Arts,Ancient History and Archaeology/History,TR112,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1135,Arts,Ancient History and Archaeology/History of Art and Architecture,TR113,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1136,Arts,Ancient History and Archaeology/Modern Language,TR114,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1137,Arts,Ancient History and Archaeology/Religion,TR117,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1138,Arts,Classical Civilisation/English Literature,TR166,,*,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1139,Arts,Classical Civilisation/History of Art and Architecture,TR173,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1140,Arts,Classical Civilisation/Modern Language,TR177,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1141,Arts,Classical Civilisation/Philosophy,TR179,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1142,Arts,Economics/Geography,TR198,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1143,Arts,Economics/History,TR202,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1144,Arts,Economics/Mathematics,TR207,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1145,Arts,Economics/Modern Language,TR208,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1146,Arts,Economics/Philosophy,TR209,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1147,Arts,Economics/Sociology,TR212,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1148,Interdisciplinary programmes and qualifications involving arts and humanities,Classical Languages/English Literature,TR228,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1149,Interdisciplinary programmes and qualifications involving arts and humanities,Classical Languages/History of Art and Architecture,TR231,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1150,Interdisciplinary programmes and qualifications involving arts and humanities,"Classical Languages/Middle Eastern,Jewish and Islamic Civilisations",TR233,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1151,Arts,Classical Languages/Modern Language,TR239,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1152,Arts,English Literature/History,TR262,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1153,Arts,English Literature/History of Art and Architecture,TR263,,*,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1154,Arts,English Literature/Philosophy,TR269,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1155,Arts,English Literature/Sociology,TR272,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1156,Arts,English Literature/Drama Studies,TR276,498.0,,,,476.0,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1157,Arts,English Literature/Modern Language,TR277,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1158,Arts,Film/Drama Studies,TR311,521.0,*,,,521.0,*,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1159,Arts,Film/English Literature,TR312,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1160,Arts,Film/Music,TR320,,*,,,,*,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1161,Arts,Geography/History,TR322,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1162,Arts,Drama Studies/Modern Language,TR323,473.0,,,,473.0,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1163,Arts,Film/Modern Language,TR324,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1164,Arts,Film/History,TR325,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1165,Arts,Geography/Modern Language,TR326,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1166,Arts,Geography/Sociology,TR332,,*,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1167,Arts,History/History of Art and Architecture,TR443,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1168,Arts,History/Modern Language,TR447,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1169,Arts,History/Philosophy,TR449,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1170,Arts,History/Sociology,TR452,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1171,Arts,History/Religion,TR454,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1172,Arts,History of Art and Architecture/Modern Language,TR455,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1173,Arts,History of Art and Architecture/Philosophy,TR479,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1174,Arts,"Middle Eastern,Jewish and Islamic Civ./Ancient History and Archaeology",TR547,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1175,Arts,"Middle Eastern,Jewish and Islamic Civilisations/Classical Civilisation",TR548,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1176,Arts,"Middle Eastern,Jewish and Islamic Civilisations/History",TR554,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1177,Arts,"Middle Eastern,Jewish and Islamic Civilisations/Modern Language",TR563,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1178,Arts,"Middle Eastern,Jewish and Islamic Civilisations/Music",TR564,,,,,,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1179,Arts,"Middle Eastern,Jewish and Islamic Civilisations/Religion",TR565,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1180,Arts,Mathematics/Modern Language,TR597,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1181,Arts,Mathematics/Music,TR598,,*,,,,*,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1182,Arts,Mathematics/Philosophy,TR599,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1183,Arts,Music/Philosophy,TR629,,,,,,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1184,Arts,Music/Drama Studies,TR635,473.0,,,,473.0,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1185,Arts,Music/Modern Language,TR636,,,,,,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1186,Arts,Music/Religion,TR638,,,,,,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1187,Arts,Philosophy/Modern Language,TR639,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1188,Arts,Philosophy/Sociology,TR662,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1189,Arts,Religion/Classical Civilisation,TR663,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1190,Arts,Religion/English Literature,TR664,,*,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1191,Arts,Religion/History of Art and Architecture,TR665,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1192,Arts,Religion/Modern Language,TR666,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1193,Arts,French/Modern Language,TR667,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1194,Arts,German/Modern Language,TR668,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1195,Arts,Irish/Modern Language,TR669,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1196,Arts,Italian/Modern Language,TR670,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1197,Arts,Russian/Modern Language,TR671,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1198,Arts,Spanish/Modern Language,TR672,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1199,Arts,Sociology/Drama Studies,TR755,498.0,,,,498.0,,,8,Trinity College Dublin,#,,,,,,,,,,,TR
+1200,Arts,Sociology/Modern Language,TR756,,,,,,,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1201,Health,Dental Nursing,TR801,,,,,,,,7,Trinity College Dublin,,,,,,,,,,,,TR
+1202,Health,Dental Hygiene,TR802,543.0,,511.0,,498.0,,,7,Trinity College Dublin,#,,,,,,,,,,,TR
+1203,Health,Dental Technology,TR803,531.0,,486.0,,359.0,,,7,Trinity College Dublin,#,,,,,,,,,,,TR
+1204,Health,Children`s and General Nursing (Integrated),TR911,,,,,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1205,Health,Midwifery,TR913,,,,*,,*,,8,Trinity College Dublin,,,,,,,,,,,,TR
+1206,Engineering and engineering trades,Electronic Engineering,TU601,,,,,,,,6,Technological University Dublin,,avp,,,,,,,,,,TU
+1207,Engineering and engineering trades,Computer Engineering,TU602,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1208,Engineering and engineering trades,Mechanical Engineering,TU603,,,,,,,,6,Technological University Dublin,,avp,,,,,,,,,,TU
+1209,Personal services,Bar and Restaurant Management,TU641,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1210,Personal services,Culinary Arts,TU642,,,,,,,,6,Technological University Dublin,,avp,,,,,,,,,,TU
+1211,Personal services,Culinary Arts (Professional Cookery Practice),TU643,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1212,Personal services,Food Management and Entrepreneurship,TU644,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1213,Manufacturing and processing,Food Science and Management,TU645,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1214,Biological and related sciences,Applied Biology,TU651,,,,,,,,6,Technological University Dublin,,avp,,,,,,,,,,TU
+1215,Information and Communication Technologies (ICTs),Computing,TU652,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1216,Information and Communication Technologies (ICTs),Computing (Information Technology),TU653,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1217,Health,Pharmacy Technician Studies,TU654,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1218,Information and Communication Technologies (ICTs),Computing (Networking Technologies) Learn and Work,TU655,,,,,,,,6,Technological University Dublin,#,avp,,,,,,,,,,TU
+1219,Business and administration,Business,TU671,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1220,Business and administration,Business (Common entry),TU672,,,,,,,,6,Technological University Dublin,,avp,,,,,,,,,,TU
+1221,Business and administration,Business Management,TU673,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1222,Business and administration,Business Studies,TU674,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1223,Business and administration,Marketing,TU675,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1224,Business and administration,Retail Management and Marketing,TU676,,,,,,,,6,Technological University Dublin,,,,,,,,,,,,TU
+1225,Engineering and engineering trades,Automation Engineering,TU701,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1226,Engineering and engineering trades,Biomedical Design,TU702,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1227,Engineering and engineering trades,Building Engineering,TU703,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1228,Architecture and construction,Civil Engineering,TU704,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1229,Engineering and engineering trades,Electrical and Control Engineering,TU705,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1230,Engineering and engineering trades,Electrical Services Engineering,TU706,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1231,Engineering and engineering trades,Electronic Engineering,TU707,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1232,Engineering and engineering trades,Engineering (Common Entry with Award options),TU708,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1233,Engineering and engineering trades,Engineering (General Entry),TU709,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1234,Engineering and engineering trades,Engineering Reliability Management,TU710,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1235,Engineering and engineering trades,Mechatronic Engineering,TU711,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1236,Engineering and engineering trades,Sustainable Energy and Environmental Engineering,TU712,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1237,Engineering and engineering trades,Computer Engineering,TU713,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1238,Engineering and engineering trades,Electronics and Communications Engineering,TU714,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1239,Engineering and engineering trades,Engineering Software,TU715,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1240,Engineering and engineering trades,Networking Technology,TU716,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1241,Engineering and engineering trades,Mechanical Engineering,TU717,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1242,Engineering and engineering trades,Mechanical Engineering,TU718,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1243,Manufacturing and processing,"Design,Technology and Innovation",TU719,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1244,Engineering and engineering trades,Automotive Management and Technology,TU720,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1245,Engineering and engineering trades,Aviation Technology,TU721,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1246,Manufacturing and processing,Process Instrumentation and Automation Learn and Work,TU722,,,,,,,,7,Technological University Dublin,#,avp,v,,,,,,,,,TU
+1247,Business and administration,"Auctioneering, Valuation and Estate Agency",TU731,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1248,Manufacturing and processing,Timber Product Technology,TU732,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1249,Personal services,Sports Management and Coaching,TU735,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1250,Biological and related sciences,Sports Science and Health,TU736,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1251,Personal services,Baking and Pastry Arts Management,TU741,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1252,Personal services,Culinary Arts,TU742,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1253,Personal services,Hospitality Management,TU745,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1254,Personal services,International Hospitality and Tourism Management,TU746,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1255,Personal services,Tourism Management,TU747,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1256,Biological and related sciences,Biosciences,TU751,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1257,Biological and related sciences,DNA and Forensic Analysis,TU752,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1258,Physical sciences,Industrial and Environmental Physics,TU754,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1259,Physical sciences,Science (General Entry),TU755,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1260,Information and Communication Technologies (ICTs),Computing,TU756,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1261,Information and Communication Technologies (ICTs),Computing (Information Technology),TU757,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1262,Information and Communication Technologies (ICTs),Digital Forensics and Cyber Security,TU758,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1263,Information and Communication Technologies (ICTs),Information Technology Management,TU759,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1264,Biological and related sciences,Bioanalysis,TU760,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1265,Health,Ophthalmic Dispensing,TU761,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1266,Physical sciences,Medicinal Chemistry and Pharmaceutical Sciences,TU762,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1267,Biological and related sciences,Pharmaceutical Science,TU763,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1268,Business and administration,Business,TU771,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1269,Business and administration,Business (Common Entry with Award options),TU772,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1270,Business and administration,Management,TU774,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1271,Business and administration,Accounting and Finance,TU775,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1272,Business and administration,Accounting and Finance,TU776,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1273,Business and administration,Business and Information Technology,TU777,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1274,Business and administration,International Business,TU778,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1275,Business and administration,International Business,TU779,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1276,Business and administration,Advertising and Marketing Communications,TU780,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1277,Business and administration,Digital Marketing,TU781,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1278,Business and administration,Digital Marketing,TU782,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1279,Business and administration,Marketing,TU783,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1280,Welfare,Applied Social Studies in Social Care,TU791,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1281,Social and behavioural sciences,Community and Youth Development,TU792,,,,,,,,7,Technological University Dublin,,avp,,,,,,,,,,TU
+1282,Welfare,Early Childhood Care and Education,TU793,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1283,Welfare,Early Childhood Care and Education,TU794,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1284,Arts,Visual Merchandising and Display,TU795,,,,,,,,7,Technological University Dublin,#,,,,,,,,,,,TU
+1285,Arts,Creative Digital Media,TU796,,,,,,,,7,Technological University Dublin,,,,,,,,,,,,TU
+1286,Engineering and engineering trades,Biomedical Design,TU801,,,,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1287,Engineering and engineering trades,Electrical Services and Energy Management,TU802,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1288,Engineering and engineering trades,Electronic Engineering,TU803,,,243.0,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1289,Engineering and engineering trades,Engineering (Common Entry with Award options),TU804,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1290,Engineering and engineering trades,Engineering (General Entry),TU805,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1291,Engineering and engineering trades,Sustainable Energy Engineering,TU806,,,,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1292,Engineering and engineering trades,Computer Engineering in Mobile Systems,TU807,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1293,Engineering and engineering trades,Engineering Software,TU808,,,260.0,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1294,Engineering and engineering trades,Mechanical Engineering,TU809,,,,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1295,Engineering and engineering trades,Mechatronic Engineering,TU810,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1296,Arts,Product Design,TU811,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1297,Manufacturing and processing,"Design,Technology and Innovation",TU812,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1298,Engineering and engineering trades,Automation Engineering,TU813,,,218.0,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1299,Transport services,Transport Operations and Technology,TU814,,,,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1300,Architecture and construction,Architectural Technology,TU831,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1301,Architecture and construction,Architecture (Suitability Test and Interview),TU832,,,,,,,,8,Technological University Dublin,#,,,,,,,,,,,TU
+1302,Architecture and construction,Construction Management,TU833,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1303,Architecture and construction,Geographic Science,TU834,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1304,Architecture and construction,Planning and Environmental Management,TU835,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1305,Architecture and construction,Property Economics (Valuation Surveying),TU836,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1306,Architecture and construction,Quantity Surveying and Construction Economics,TU837,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1307,Environment,Analytical Chemistry (Environmental Forensic and Pharmaceutical),TU851,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1308,Physical sciences,Chemical Sciences with Medicinal Chemistry,TU852,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1309,Biological and related sciences,Science (General Entry),TU854,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1310,Physical sciences,Science with Nanotechnology,TU855,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1311,Information and Communication Technologies (ICTs),Computer Science,TU856,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1312,Information and Communication Technologies (ICTs),Computer Science (Infrastructure),TU857,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1313,Information and Communication Technologies (ICTs),Computer Science (International),TU858,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1314,Information and Communication Technologies (ICTs),Computing,TU859,,,,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1315,Information and Communication Technologies (ICTs),Computing (Information Technology),TU860,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1316,Information and Communication Technologies (ICTs),Computing with Language (French/German/Spanish),TU861,,,308.0,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1317,Information and Communication Technologies (ICTs),Computing with Data Analytics,TU862,,,226.0,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1318,Information and Communication Technologies (ICTs),Digital Forensics and Cyber Security,TU863,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1319,Biological and related sciences,DNA and Forensic Analysis,TU864,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1320,Information and Communication Technologies (ICTs),Computing with IT Management,TU865,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1321,Health,Biomedical and Molecular Diagnostics,TU866,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1322,Health,Biomedical Science,TU867,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1323,Health,Clinical Measurement Science,TU868,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1324,Hygiene and occupational health services,Environmental Health,TU869,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1325,Health,Human Nutrition and Dietetics,TU870,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1326,Health,Optometry,TU871,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1327,Biological and related sciences,Public Health Nutrition,TU872,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1328,Mathematics and statistics,Industrial Mathematics,TU873,,,250.0,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1329,Mathematics and statistics,Mathematical Sciences,TU874,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1330,Biological and related sciences,Pharmaceutical Healthcare,TU875,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1331,Biological and related sciences,Pharmaceutical Science,TU876,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1332,Physical sciences,Physics Technology,TU877,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1333,Physical sciences,Physics with Energy and Environment,TU878,,,337.0,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1334,Health,Physics with Medical Physics and Bioengineering,TU879,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1335,Physical sciences,Physics with Data Science,TU880,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1336,Manufacturing and processing,Food Innovation,TU881,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1337,Biological and related sciences,Nutraceuticals in Health and Nutrition,TU882,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1338,Business and administration,Business,TU901,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1339,Business and administration,Business (Common Entry with Award options),TU902,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1340,Business and administration,Business and Management,TU903,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1341,Business and administration,Business and Law,TU904,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1342,Social and behavioural sciences,Economics and Finance,TU905,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1343,Business and administration,Human Resource Management,TU906,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1344,Business and administration,Logistics and Supply Chain Management,TU907,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1345,Business and administration,Management,TU908,,,,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1346,Business and administration,Accounting and Finance,TU909,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1347,Business and administration,Accounting and Finance,TU910,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1348,Business and administration,Accounting and Finance,TU911,,,,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1349,Information and Communication Technologies (ICTs),Business Analytics,TU912,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1350,Business and administration,Business and Information Technology,TU913,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1351,Information and Communication Technologies (ICTs),Business Computing,TU914,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1352,Business and administration,International Business,TU915,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1353,Business and administration,International Business,TU916,,,235.0,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1354,Law,Law (LLB ) with a Language,TU917,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1355,Law,Law (LLB),TU918,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1356,Business and administration,Advertising and Marketing Communications,TU919,,,,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1357,Business and administration,Digital Marketing,TU920,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1358,Business and administration,Digital Marketing Technologies,TU921,,,,,,,,8,Technological University Dublin,,avp,v,,,,,,,,,TU
+1359,Business and administration,Marketing,TU922,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1360,Business and administration,Marketing Management,TU923,,,,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1361,Business and administration,E-Commerce in Retailing,TU924,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1362,Business and administration,Retail and Services Management,TU925,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1363,Personal services,Sports Management and Coaching,TU935,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1364,Biological and related sciences,Sports Science and Health,TU936,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1365,Personal services,Botanical Cuisine,TU941,,,,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1366,Personal services,Culinary Arts,TU942,,,212.0,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1367,Personal services,Culinary Entrepreneurship,TU943,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1368,Personal services,Culinary Science,TU944,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1369,Personal services,International Hospitality and Tourism Management,TU951,,,184.0,,,,,8,Technological University Dublin,,avp,v,,,,,,,,,TU
+1370,Personal services,International Hospitality Management,TU952,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1371,Personal services,Tourism and Digital Marketing,TU953,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1372,Personal services,Event Management,TU954,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1373,Personal services,Sports & Leisure Management,TU955,,,,,,,,8,Technological University Dublin,,avp,,,,,,,,,,TU
+1374,Arts,Commercial Modern Music,TU961,,,,,,,,8,Technological University Dublin,#,avp,,,,,,,,,,TU
+1375,Arts,Drama (Performance),TU962,,,,,,,,8,Technological University Dublin,#,,,,,,,,,,,TU
+1376,Arts,Music,TU963,,,,,,,,8,Technological University Dublin,#,,,,,,,,,,,TU
+1377,Business and administration,International Business and Languages,TU965,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1378,Languages,Languages and English Studies,TU966,,,,,,,,8,Technological University Dublin,,avp,v,,,,,,,,,TU
+1379,Arts,Languages and International Tourism,TU967,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1380,Arts,Contemporary Visual Culture,TU971,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1381,Arts,Creative and Cultural Industries,TU972,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1382,Arts,Design - Visual Communication,TU973,,,,,,,,8,Technological University Dublin,#,,,,,,,,,,,TU
+1383,Arts,Fine Art,TU974,,,,,,,,8,Technological University Dublin,#,,,,,,,,,,,TU
+1384,Arts,Interior Design,TU975,,,,,,,,8,Technological University Dublin,#,,,,,,,,,,,TU
+1385,Arts,Photography,TU976,,,,,,,,8,Technological University Dublin,#,,,,,,,,,,,TU
+1386,Arts,Creative Digital Media,TU981,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1387,Arts,Creative Digital Media,TU982,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1388,Arts,Film and Broadcasting,TU983,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1389,Information and Communication Technologies (ICTs),Game Design,TU984,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1390,Journalism and information,Journalism,TU985,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1391,Business and administration,Print Media Technology and Management,TU986,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1392,Welfare,Applied Social Studies in Social Care,TU991,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1393,Social and behavioural sciences,Community and Youth Development,TU992,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1394,Welfare,Early Childhood Care and Education,TU993,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1395,Welfare,Early Childhood Care and Education,TU994,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1396,Education,Early Childhood Education,TU995,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1397,Social and behavioural sciences,Social Care,TU996,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1398,Welfare,Applied Social Care,TU997,,,,,,,,8,Technological University Dublin,,,,,,,,,,,,TU
+1399,Information and Communication Technologies (ICTs),Applied Computing (options),WD001,,,,,,,,8,Waterford Institute of Technology,,avp,,,,,,,,,,WD
+1400,Physical sciences,Science (options),WD002,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1401,Business and administration,Business,WD003,,,,,,,,6,Waterford Institute of Technology,,avp,,,,,,,,,,WD
+1402,Health,Health Sciences (options),WD005,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1403,Personal services,Exercise Sciences (options),WD006,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1404,Engineering and engineering trades,Engineering (options),WD007,,,,,,,,8,Waterford Institute of Technology,,avp,,,,,,,,,,WD
+1405,Engineering and engineering trades,Electronic Engineering,WD010,,,,,,,,6,Waterford Institute of Technology,,,,,,,,,,,,WD
+1406,Engineering and engineering trades,Mechanical Engineering,WD011,,,,,,,,6,Waterford Institute of Technology,,,,,,,,,,,,WD
+1407,Law,Legal Studies,WD013,,,,,,,,6,Waterford Institute of Technology,,,,,,,,,,,,WD
+1408,Welfare,Applied Social Care,WD018,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1409,Personal services,Recreation and Sport Management,WD019,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1410,Architecture and construction,Construction Management and Engineering,WD025,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1411,Arts,Music,WD027,,,,,,,,8,Waterford Institute of Technology,#,,,,,,,,,,,WD
+1412,Business and administration,Business (options),WD048,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1413,"Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary",Forestry,WD076,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1414,Business and administration,Accounting,WD084,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1415,Personal services,Hospitality Management,WD091,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1416,Architecture and construction,Architectural Technology,WD094,,,,,,,,7,Waterford Institute of Technology,,avp,,,,,,,,,,WD
+1417,Agriculture,Horticulture (Waterford - Kildalton),WD096,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1418,Agriculture,Horticulture (Dublin - National Botanic Gardens),WD097,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1419,Health,General Nursing,WD116,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1420,Health,Psychiatric Nursing,WD117,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1421,Health,Intellectual Disability Nursing,WD120,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1422,Agriculture,Agriculture,WD126,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1423,Business and administration,International Business,WD134,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1424,Arts,Design (Visual Communications),WD137,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1425,Architecture and construction,Civil Engineering,WD139,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1426,Law,Laws,WD140,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1427,Architecture and construction,Architecture,WD144,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1428,Physical sciences,Pharmaceutical Science,WD147,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1429,Welfare,Early Childhood Studies,WD149,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1430,Law,Criminal Justice Studies,WD150,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1431,Information and Communication Technologies (ICTs),Software Systems Development,WD151,,,,,,,,7,Waterford Institute of Technology,,avp,,,,,,,,,,WD
+1432,Arts,Visual Art,WD152,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1433,Information and Communication Technologies (ICTs),Multimedia Applications Development,WD153,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1434,Information and Communication Technologies (ICTs),Information Technology,WD155,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1435,Business and administration,Business,WD159,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1436,Information and Communication Technologies (ICTs),Computer Forensics and Security,WD161,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1437,Architecture and construction,Quantity Surveying,WD162,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1438,Social and behavioural sciences,Psychology,WD163,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1439,Biological and related sciences,Food Science with Business,WD164,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1440,Personal services,Culinary Arts,WD172,,,,,,,,6,Waterford Institute of Technology,,avp,,,,,,,,,,WD
+1441,Personal services,Hospitality Studies,WD173,,,,,,,,6,Waterford Institute of Technology,,,,,,,,,,,,WD
+1442,Personal services,Tourism,WD174,,,,,,,,6,Waterford Institute of Technology,,,,,,,,,,,,WD
+1443,Physical sciences,Pharmaceutical Science,WD175,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1444,Biological and related sciences,"Science (Mol. Biology with Biopharm.,Food Science with Business,Pharm.)",WD177,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1445,Engineering and engineering trades,Electrical Engineering,WD182,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1446,Business and administration,Retail Management,WD184,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1447,Personal services,Sports Coaching and Performance,WD186,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1448,Welfare,Social Science,WD187,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1449,Health,Applied Health Care,WD188,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1450,Agriculture,Agricultural Science,WD191,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1451,Welfare,Social Care Practice,WD192,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1452,Business and administration,Marketing and Digital Media,WD193,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1453,Personal services,Culinary Arts,WD194,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1454,Architecture and construction,Architectural and Building Information Modelling Technology,WD195,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1455,Arts,Arts (options),WD200,,,,,,,,8,Waterford Institute of Technology,,avp,,,,,,,,,,WD
+1456,Health,Molecular Biology with Biopharmaceutical Science,WD205,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1457,Engineering and engineering trades,Electronic Engineering,WD206,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1458,Engineering and engineering trades,Mechanical Engineering,WD207,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1459,Manufacturing and processing,Manufacturing Engineering,WD208,,,,,,,,7,Waterford Institute of Technology,,,,,,,,,,,,WD
+1460,Information and Communication Technologies (ICTs),Software Systems Development,WD210,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1461,Information and Communication Technologies (ICTs),Creative Computing,WD211,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1462,Personal services,Recreation and Sport Management,WD212,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
+1463,Engineering and engineering trades,Mechanical and Manufacturing Engineering,WD230,,,,,,,,8,Waterford Institute of Technology,,,,,,,,,,,,WD
