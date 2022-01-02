@@ -1,5 +1,5 @@
 # Fundamentals-of-Data-Analysis
-## Author: Fionn McCarthy
+## Author: Fionn McCarthy - G00301126
 ---
 This is my repository for the a module assessment in the Fundamentals of Data Analysis module. This repository contains two jupyter notebooks: 
 
@@ -23,4 +23,6 @@ This jupyter notebook will describe and show how you can load the CAO points inf
 1. Download and install **[[Anaconda](https://www.anaconda.com/products/individual)]**  
 2. If using windows download and run **[[Cmder](https://cmder.net/)]** 
 3. On the command line in Cmder run the line 'jupyter lab' 
+4. The requirements.txt file in the repository outlines the necessary packages in order to run this jupyter notebook.
 ---
+
